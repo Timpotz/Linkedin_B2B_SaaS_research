@@ -11,6 +11,7 @@ The goal of this repo is to turn that body of work into a useful base for a futu
 - 10 experts with real operating experience in B2B SaaS content, founder branding, creator-led growth, or LinkedIn strategy
 - Public LinkedIn post notes organized by author
 - YouTube and podcast notes organized by video or episode
+- YouTube en-orig caption files for all 10 selected videos, stored alongside the transcript notes
 - Short source annotations on why each expert was included
 - A lightweight transcript collection script and manifest for rerunning the process later
 
@@ -33,6 +34,7 @@ Each person in this set actively publishes, teaches from real experience, and ha
 - `research/other/` — methodology and collection notes
 - `research/manifest.json` — rerunnable video manifest for transcript collection
 - `scripts/fetch_youtube_transcripts.py` — transcript collection utility using `youtube-transcript-api`
+- `scripts/download_youtube_cc.py`- manifest-driven YouTube caption downloader using yt-dlp
 
 ## Collection notes
 
