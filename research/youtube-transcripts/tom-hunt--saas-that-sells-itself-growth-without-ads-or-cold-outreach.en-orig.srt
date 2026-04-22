@@ -1,0 +1,4700 @@
+1
+00:00:00,080 --> 00:00:03,439
+The next time I build a SAS app, one
+
+2
+00:00:01,920 --> 00:00:04,880
+criteria of what I choose to build is is
+
+3
+00:00:03,439 --> 00:00:06,000
+there some kind of productled growth in
+
+4
+00:00:04,880 --> 00:00:07,120
+the product. And if I can't do that,
+
+5
+00:00:06,000 --> 00:00:08,960
+then I'm less likely to do it because
+
+6
+00:00:07,120 --> 00:00:13,080
+then I have to adopt this other ethos of
+
+7
+00:00:08,960 --> 00:00:13,080
+business I don't really care about.
+
+8
+00:00:14,400 --> 00:00:19,279
+If you're building a B2 SAS product or
+
+9
+00:00:16,400 --> 00:00:20,720
+AI agent, check out Gearart. They're not
+
+10
+00:00:19,279 --> 00:00:22,880
+just a dev shop. They're founders who
+
+11
+00:00:20,720 --> 00:00:24,960
+built and exited their own startups. So
+
+12
+00:00:22,880 --> 00:00:26,800
+whether you're validating an idea
+
+13
+00:00:24,960 --> 00:00:28,960
+already scaling, they know how to meet
+
+14
+00:00:26,800 --> 00:00:30,720
+you where you are. They've helped launch
+
+15
+00:00:28,960 --> 00:00:33,280
+so many products including Smart Suite
+
+16
+00:00:30,720 --> 00:00:34,880
+which raised $38 million. Right now,
+
+17
+00:00:33,280 --> 00:00:36,800
+Confessions of a B2B entrepreneur
+
+18
+00:00:34,880 --> 00:00:39,440
+listeners get a free strategy session
+
+19
+00:00:36,800 --> 00:00:41,520
+and 20% off validation, discovery, and
+
+20
+00:00:39,440 --> 00:00:43,440
+prototyping throughout September. Hit
+
+21
+00:00:41,520 --> 00:00:45,100
+the link in the description to claim
+
+22
+00:00:43,440 --> 00:00:47,280
+your slot.
+
+23
+00:00:45,100 --> 00:00:49,840
+[Music]
+
+24
+00:00:47,280 --> 00:00:51,920
+Hello and welcome back to SAS that app.
+
+25
+00:00:49,840 --> 00:00:54,559
+Today we are thrilled to welcome Tom
+
+26
+00:00:51,920 --> 00:00:56,559
+Hunt, founder and CEO of fame, a fully
+
+27
+00:00:54,559 --> 00:00:58,879
+remote 71 person team that starts and
+
+28
+00:00:56,559 --> 00:01:01,199
+scales the world's most profitable B2B
+
+29
+00:00:58,879 --> 00:01:04,239
+podcasts. Tom's journey includes
+
+30
+00:01:01,199 --> 00:01:05,600
+founding 17 startups, investing in more,
+
+31
+00:01:04,239 --> 00:01:07,600
+learning the art of growing businesses
+
+32
+00:01:05,600 --> 00:01:09,520
+through content and community, and also
+
+33
+00:01:07,600 --> 00:01:11,520
+happens to be the host of Confessions of
+
+34
+00:01:09,520 --> 00:01:13,280
+a B2B entrepreneur. You'll have to check
+
+35
+00:01:11,520 --> 00:01:15,439
+that out. Tom is very passionate about
+
+36
+00:01:13,280 --> 00:01:17,680
+the formula to becoming famous, creating
+
+37
+00:01:15,439 --> 00:01:19,840
+niche like insanely good content and
+
+38
+00:01:17,680 --> 00:01:21,200
+getting seen alongside many other famous
+
+39
+00:01:19,840 --> 00:01:23,520
+players. So, it's kind of a philosophy
+
+40
+00:01:21,200 --> 00:01:25,600
+that ties into today's topic, which is
+
+41
+00:01:23,520 --> 00:01:27,439
+productled growth in SAS. Tom, welcome
+
+42
+00:01:25,600 --> 00:01:29,119
+to the pod. Thanks for having me, guys.
+
+43
+00:01:27,439 --> 00:01:31,680
+I'm very excited. Now, maybe I should
+
+44
+00:01:29,119 --> 00:01:34,720
+admit now that I've tried a few times to
+
+45
+00:01:31,680 --> 00:01:36,799
+build a SAS and you could say failed or
+
+46
+00:01:34,720 --> 00:01:38,240
+you could say succeeded and learned
+
+47
+00:01:36,799 --> 00:01:39,520
+loads of things, but we can dig into
+
+48
+00:01:38,240 --> 00:01:40,799
+that in the episode.
+
+49
+00:01:39,520 --> 00:01:43,439
+>> Absolutely. Yeah, I like the second one
+
+50
+00:01:40,799 --> 00:01:45,280
+there. And uh with me as always is my
+
+51
+00:01:43,439 --> 00:01:46,799
+partner in crime, who I'm sad to say is
+
+52
+00:01:45,280 --> 00:01:48,560
+not wearing his doughut shirt today. I
+
+53
+00:01:46,799 --> 00:01:49,600
+was very excited about that yesterday,
+
+54
+00:01:48,560 --> 00:01:50,960
+Justin Edwards.
+
+55
+00:01:49,600 --> 00:01:52,320
+>> We got to split up the release order of
+
+56
+00:01:50,960 --> 00:01:53,520
+these podcast so I don't always show up
+
+57
+00:01:52,320 --> 00:01:54,880
+wearing the same clothes. Everyone's
+
+58
+00:01:53,520 --> 00:01:57,280
+going to realize I only actually own
+
+59
+00:01:54,880 --> 00:01:59,280
+five shirts, but
+
+60
+00:01:57,280 --> 00:02:01,439
+>> same spray cycles, man.
+
+61
+00:01:59,280 --> 00:02:01,759
+>> How about that? So anyway, happy to be
+
+62
+00:02:01,439 --> 00:02:04,479
+here.
+
+63
+00:02:01,759 --> 00:02:05,840
+>> Good deal. So Tom, completely off topic
+
+64
+00:02:04,479 --> 00:02:07,360
+to get us started, but do I have it
+
+65
+00:02:05,840 --> 00:02:09,360
+right that you have a degree in
+
+66
+00:02:07,360 --> 00:02:11,360
+chemistry, a master's degree in
+
+67
+00:02:09,360 --> 00:02:14,080
+medicinal chemistry? Yeah, I thought the
+
+68
+00:02:11,360 --> 00:02:15,840
+three years wasn't enough and I went for
+
+69
+00:02:14,080 --> 00:02:17,440
+the fourth and that's when I realized I
+
+70
+00:02:15,840 --> 00:02:19,440
+actually didn't want to do it anymore
+
+71
+00:02:17,440 --> 00:02:20,959
+within the fourth year. But I think the
+
+72
+00:02:19,440 --> 00:02:22,560
+point I remember is in the fourth year
+
+73
+00:02:20,959 --> 00:02:24,160
+you had to do your own project and I was
+
+74
+00:02:22,560 --> 00:02:26,239
+trying to build a protein that would
+
+75
+00:02:24,160 --> 00:02:27,840
+maybe interact with another protein. And
+
+76
+00:02:26,239 --> 00:02:29,680
+I was in the lab on my own for like the
+
+77
+00:02:27,840 --> 00:02:31,520
+fifth day straight mixing liquids around
+
+78
+00:02:29,680 --> 00:02:34,879
+and I was like wow I really don't give a
+
+79
+00:02:31,520 --> 00:02:36,879
+[ __ ] about this.
+
+80
+00:02:34,879 --> 00:02:38,959
+>> I find that super relatable.
+
+81
+00:02:36,879 --> 00:02:40,239
+>> Really? Yeah. And then well it gets
+
+82
+00:02:38,959 --> 00:02:42,080
+better because then I was like okay so
+
+83
+00:02:40,239 --> 00:02:43,920
+what do I do? Had no idea. And so then I
+
+84
+00:02:42,080 --> 00:02:45,440
+spent two years at a company called EY
+
+85
+00:02:43,920 --> 00:02:47,280
+which is a big professional accountancy
+
+86
+00:02:45,440 --> 00:02:48,800
+firm. And then I was like, well, also
+
+87
+00:02:47,280 --> 00:02:50,640
+don't like this, so maybe I'll go and
+
+88
+00:02:48,800 --> 00:02:51,840
+work for Accenture, another big
+
+89
+00:02:50,640 --> 00:02:53,920
+professional service firm.
+
+90
+00:02:51,840 --> 00:02:55,840
+>> That sounds awful.
+
+91
+00:02:53,920 --> 00:02:57,360
+>> And then it was two months into that and
+
+92
+00:02:55,840 --> 00:02:59,599
+I was like, well, yeah, I really don't
+
+93
+00:02:57,360 --> 00:03:01,840
+give a [ __ ] about this either. And so
+
+94
+00:02:59,599 --> 00:03:03,440
+then this takes us up to, well, start
+
+95
+00:03:01,840 --> 00:03:05,280
+2014, and this is where the story gets a
+
+96
+00:03:03,440 --> 00:03:07,840
+bit more interesting, I think, is that
+
+97
+00:03:05,280 --> 00:03:10,239
+I'm like, if I can't do chemistry, I
+
+98
+00:03:07,840 --> 00:03:12,319
+can't be employed because I've tried two
+
+99
+00:03:10,239 --> 00:03:14,159
+companies and I didn't work well either.
+
+100
+00:03:12,319 --> 00:03:16,080
+What do I do? I was interested in the
+
+101
+00:03:14,159 --> 00:03:18,400
+internet, but then I couldn't code. So I
+
+102
+00:03:16,080 --> 00:03:20,319
+was like, I need to try and replace my
+
+103
+00:03:18,400 --> 00:03:22,560
+salary so I can actually like be useful
+
+104
+00:03:20,319 --> 00:03:23,760
+in the world. So if you can't code or
+
+105
+00:03:22,560 --> 00:03:25,120
+you like the internet, then online
+
+106
+00:03:23,760 --> 00:03:26,879
+marketing is probably the the next best
+
+107
+00:03:25,120 --> 00:03:28,480
+thing. So I basically spent 2014
+
+108
+00:03:26,879 --> 00:03:29,840
+learning online marketing and then
+
+109
+00:03:28,480 --> 00:03:31,840
+ultimately did manage to replace my
+
+110
+00:03:29,840 --> 00:03:33,519
+salary with a tiny small Filipino
+
+111
+00:03:31,840 --> 00:03:35,760
+outsourcing company and then managed to
+
+112
+00:03:33,519 --> 00:03:38,080
+leave in 2015 and then now it's been a
+
+113
+00:03:35,760 --> 00:03:41,280
+decade of trying and failing to build
+
+114
+00:03:38,080 --> 00:03:42,799
+various software service companies.
+
+115
+00:03:41,280 --> 00:03:45,120
+>> Fantastic. I I feel like we're starting
+
+116
+00:03:42,799 --> 00:03:48,080
+to get a a stable. We actually had a
+
+117
+00:03:45,120 --> 00:03:50,560
+polymer chemist on a few episodes back.
+
+118
+00:03:48,080 --> 00:03:52,560
+So, I'm very interested always in how
+
+119
+00:03:50,560 --> 00:03:53,360
+you depart from there and arrive at
+
+120
+00:03:52,560 --> 00:03:55,040
+where you are.
+
+121
+00:03:53,360 --> 00:03:56,640
+>> If memory serves, the polymer chemist
+
+122
+00:03:55,040 --> 00:03:59,200
+also had motivational issues with his
+
+123
+00:03:56,640 --> 00:04:00,400
+job and stopped being a polymer chemist.
+
+124
+00:03:59,200 --> 00:04:02,640
+So,
+
+125
+00:04:00,400 --> 00:04:04,560
+>> yeah, but sometimes I think like maybe
+
+126
+00:04:02,640 --> 00:04:06,959
+I'll go back because I think having
+
+127
+00:04:04,560 --> 00:04:08,720
+business skills and marketing skills and
+
+128
+00:04:06,959 --> 00:04:12,080
+chemistry skills is quite a unique
+
+129
+00:04:08,720 --> 00:04:14,799
+combination. So there might be a a niche
+
+130
+00:04:12,080 --> 00:04:16,720
+for a chemistry business that's also
+
+131
+00:04:14,799 --> 00:04:18,000
+combined with online marketing and maybe
+
+132
+00:04:16,720 --> 00:04:19,040
+a bit of software because I've done some
+
+133
+00:04:18,000 --> 00:04:19,680
+of that. I know you guys are probably
+
+134
+00:04:19,040 --> 00:04:20,880
+the experts.
+
+135
+00:04:19,680 --> 00:04:22,000
+>> Yeah. You know who to call if there's a
+
+136
+00:04:20,880 --> 00:04:24,320
+software component.
+
+137
+00:04:22,000 --> 00:04:26,000
+>> Yeah, exactly. Meaning you guys will
+
+138
+00:04:24,320 --> 00:04:27,600
+lean on you for for your Filipino
+
+139
+00:04:26,000 --> 00:04:29,120
+outsourcing company. How did that come
+
+140
+00:04:27,600 --> 00:04:30,639
+about? Did you go to the Philippines and
+
+141
+00:04:29,120 --> 00:04:32,320
+realize how wonderful the people were or
+
+142
+00:04:30,639 --> 00:04:35,840
+was it a different way that you arrived?
+
+143
+00:04:32,320 --> 00:04:38,080
+I'd actually been there a bit before and
+
+144
+00:04:35,840 --> 00:04:39,840
+because in both EY and Accenture for
+
+145
+00:04:38,080 --> 00:04:41,440
+whatever reason I was involved in
+
+146
+00:04:39,840 --> 00:04:43,440
+projects where we were outsourcing work
+
+147
+00:04:41,440 --> 00:04:44,800
+for other large companies that gave
+
+148
+00:04:43,440 --> 00:04:46,240
+credibility when I was cold emailing
+
+149
+00:04:44,800 --> 00:04:47,280
+like random startup founders in London
+
+150
+00:04:46,240 --> 00:04:49,040
+being like do you want to use my
+
+151
+00:04:47,280 --> 00:04:50,560
+Filipina team and I'm like I spent 3
+
+152
+00:04:49,040 --> 00:04:52,320
+years working on big outsourcing deal
+
+153
+00:04:50,560 --> 00:04:54,080
+with Accenture. So I think it was just
+
+154
+00:04:52,320 --> 00:04:56,160
+something that I had experience with,
+
+155
+00:04:54,080 --> 00:04:57,840
+had credibility in. And then why the
+
+156
+00:04:56,160 --> 00:04:59,520
+Philippines? I think for our work week,
+
+157
+00:04:57,840 --> 00:05:01,680
+he hired his VA from the Philippines,
+
+158
+00:04:59,520 --> 00:05:03,680
+Tim Ferrris. And so it was more random,
+
+159
+00:05:01,680 --> 00:05:05,199
+I think, than strategic.
+
+160
+00:05:03,680 --> 00:05:06,639
+>> One thing that's really great about the
+
+161
+00:05:05,199 --> 00:05:08,160
+Philippines is that all of their formal
+
+162
+00:05:06,639 --> 00:05:09,840
+education and schooling is done in
+
+163
+00:05:08,160 --> 00:05:11,280
+English. So they speak their native
+
+164
+00:05:09,840 --> 00:05:12,639
+language at home, but everyone there is
+
+165
+00:05:11,280 --> 00:05:14,320
+a native English speaker or at least a
+
+166
+00:05:12,639 --> 00:05:15,680
+very high level English speaker because
+
+167
+00:05:14,320 --> 00:05:16,880
+that's how their schooling is done. So
+
+168
+00:05:15,680 --> 00:05:18,479
+it's a great fit for the English
+
+169
+00:05:16,880 --> 00:05:19,680
+speaking world to work with folks there.
+
+170
+00:05:18,479 --> 00:05:22,960
+>> Yeah. I also found they're like
+
+171
+00:05:19,680 --> 00:05:26,960
+extremely I don't know why but very
+
+172
+00:05:22,960 --> 00:05:29,840
+loyal. If you can provide a like regular
+
+173
+00:05:26,960 --> 00:05:32,960
+paycheck, a good working environment,
+
+174
+00:05:29,840 --> 00:05:34,639
+the employee retention is higher than
+
+175
+00:05:32,960 --> 00:05:35,919
+I've seen in other countries.
+
+176
+00:05:34,639 --> 00:05:37,919
+>> Yes, I think that's true in a lot of
+
+177
+00:05:35,919 --> 00:05:40,639
+places that aren't weird, you know,
+
+178
+00:05:37,919 --> 00:05:41,919
+western, educated, rich, and so on. But
+
+179
+00:05:40,639 --> 00:05:43,600
+yeah, I love the Philippines. I love
+
+180
+00:05:41,919 --> 00:05:45,440
+Filipino people. So, it's super cool
+
+181
+00:05:43,600 --> 00:05:46,720
+>> and still a component of fame if I
+
+182
+00:05:45,440 --> 00:05:48,880
+remember right too, Tom.
+
+183
+00:05:46,720 --> 00:05:50,240
+>> Yeah, exactly. We're fully remote and so
+
+184
+00:05:48,880 --> 00:05:52,880
+obviously some roles don't need to be
+
+185
+00:05:50,240 --> 00:05:55,360
+done in the west and so we have about 30
+
+186
+00:05:52,880 --> 00:05:57,680
+people in the Philippines and there was
+
+187
+00:05:55,360 --> 00:05:59,520
+one person who was involved in that
+
+188
+00:05:57,680 --> 00:06:02,479
+first outsourcing company that's still
+
+189
+00:05:59,520 --> 00:06:04,720
+involved in fame today and a lot of the
+
+190
+00:06:02,479 --> 00:06:06,880
+team have been brought in by that person
+
+191
+00:06:04,720 --> 00:06:08,800
+and so they're like a connection all the
+
+192
+00:06:06,880 --> 00:06:11,280
+way through the the last decade of
+
+193
+00:06:08,800 --> 00:06:13,039
+working in the Philippines. Nice. Well,
+
+194
+00:06:11,280 --> 00:06:15,440
+kind of jumping into the topic for the
+
+195
+00:06:13,039 --> 00:06:17,280
+day and just for our listeners, can you
+
+196
+00:06:15,440 --> 00:06:20,720
+just break down your take on what it
+
+197
+00:06:17,280 --> 00:06:22,560
+means to have productled growth? Yes.
+
+198
+00:06:20,720 --> 00:06:24,000
+There's like almost a very holistic way
+
+199
+00:06:22,560 --> 00:06:25,440
+of looking at business. I'll explain
+
+200
+00:06:24,000 --> 00:06:27,120
+first and then I'll explain why I think
+
+201
+00:06:25,440 --> 00:06:29,039
+product growth is so important. If you
+
+202
+00:06:27,120 --> 00:06:30,720
+think of a business like a system, I
+
+203
+00:06:29,039 --> 00:06:34,240
+think businesses spend a lot of money on
+
+204
+00:06:30,720 --> 00:06:36,720
+like outbound sales or advertising. I
+
+205
+00:06:34,240 --> 00:06:38,639
+feel like that's wasted energy from the
+
+206
+00:06:36,720 --> 00:06:41,840
+system. like the system is leaking
+
+207
+00:06:38,639 --> 00:06:44,160
+because often there's no upside for
+
+208
+00:06:41,840 --> 00:06:46,240
+anyone from interrupting people with
+
+209
+00:06:44,160 --> 00:06:47,360
+outbound email or spending loads of
+
+210
+00:06:46,240 --> 00:06:49,120
+money on ads for people that don't care
+
+211
+00:06:47,360 --> 00:06:50,960
+about it. And so it's just a leakage of
+
+212
+00:06:49,120 --> 00:06:52,479
+of energy and therefore cash from the
+
+213
+00:06:50,960 --> 00:06:53,680
+system. And so what we try to do at fame
+
+214
+00:06:52,479 --> 00:06:57,039
+and what I've tried to do whenever I
+
+215
+00:06:53,680 --> 00:06:59,599
+build a SAS app is how can I get
+
+216
+00:06:57,039 --> 00:07:02,400
+advertising in quotes in the process of
+
+217
+00:06:59,599 --> 00:07:04,880
+a user using my tool. At Fame, we have
+
+218
+00:07:02,400 --> 00:07:07,360
+built our own podcast hosting tool. And
+
+219
+00:07:04,880 --> 00:07:08,720
+so the tool simply takes the audio and
+
+220
+00:07:07,360 --> 00:07:11,759
+then distributes that to Apple and
+
+221
+00:07:08,720 --> 00:07:14,000
+Spotify, keeps it updated. And so why
+
+222
+00:07:11,759 --> 00:07:16,479
+that's great for the Fame host, the
+
+223
+00:07:14,000 --> 00:07:18,560
+tool, and for Fame itself is because
+
+224
+00:07:16,479 --> 00:07:20,160
+then for every episode, we're able to
+
+225
+00:07:18,560 --> 00:07:22,479
+produce a web page that sits on our
+
+226
+00:07:20,160 --> 00:07:24,160
+domain that can get organic traffic.
+
+227
+00:07:22,479 --> 00:07:25,520
+Today, there's a guy called Rob Walling
+
+228
+00:07:24,160 --> 00:07:27,039
+who we should definitely try and get on
+
+229
+00:07:25,520 --> 00:07:28,319
+this show. Two months ago, I had him on
+
+230
+00:07:27,039 --> 00:07:31,520
+my show. We released the episode a week
+
+231
+00:07:28,319 --> 00:07:34,240
+ago. today he tweets out a snippet from
+
+232
+00:07:31,520 --> 00:07:36,960
+that episode but also the link to the
+
+233
+00:07:34,240 --> 00:07:38,720
+episode that's on our domain and so Rob
+
+234
+00:07:36,960 --> 00:07:40,639
+Bowling 35,000 followers on Twitter his
+
+235
+00:07:38,720 --> 00:07:42,960
+audience is probably potential good
+
+236
+00:07:40,639 --> 00:07:44,479
+customers for fame and so we're getting
+
+237
+00:07:42,960 --> 00:07:46,960
+exposed just through the use of the tool
+
+238
+00:07:44,479 --> 00:07:49,039
+the final point there is also that when
+
+239
+00:07:46,960 --> 00:07:50,880
+people go on podcasts they then also
+
+240
+00:07:49,039 --> 00:07:52,560
+like to put the link to the episode from
+
+241
+00:07:50,880 --> 00:07:54,160
+their press page on their site and so
+
+242
+00:07:52,560 --> 00:07:55,759
+last month we get a backlink to our
+
+243
+00:07:54,160 --> 00:07:57,520
+domain again it's an episode page of
+
+244
+00:07:55,759 --> 00:07:59,759
+same host from IBM because one of their
+
+245
+00:07:57,520 --> 00:08:01,280
+guests went on our client show. So, I've
+
+246
+00:07:59,759 --> 00:08:03,120
+actually shared like three ways where
+
+247
+00:08:01,280 --> 00:08:05,440
+just through the use of our tool, we're
+
+248
+00:08:03,120 --> 00:08:07,520
+able to get brand exposure. And so, what
+
+249
+00:08:05,440 --> 00:08:10,080
+does that mean? That means we can spend
+
+250
+00:08:07,520 --> 00:08:11,840
+less money doing outbound sales, less
+
+251
+00:08:10,080 --> 00:08:14,160
+money running ads to people that don't
+
+252
+00:08:11,840 --> 00:08:16,479
+care, which enables us to bring our
+
+253
+00:08:14,160 --> 00:08:18,160
+prices down while still being able to
+
+254
+00:08:16,479 --> 00:08:20,720
+reinvest to make the service better. And
+
+255
+00:08:18,160 --> 00:08:22,319
+then it feeds into this holistic loop
+
+256
+00:08:20,720 --> 00:08:24,000
+which I call the fame playbook. But it's
+
+257
+00:08:22,319 --> 00:08:26,479
+the same we can just use the same loop
+
+258
+00:08:24,000 --> 00:08:28,720
+for any SAS company is that we get cheap
+
+259
+00:08:26,479 --> 00:08:30,080
+clients because our users are bas
+
+260
+00:08:28,720 --> 00:08:31,520
+essentially doing advertising for us.
+
+261
+00:08:30,080 --> 00:08:33,360
+And then that enables us to bring price
+
+262
+00:08:31,520 --> 00:08:35,519
+down to deliver a good service lower
+
+263
+00:08:33,360 --> 00:08:37,360
+price which makes clients happier which
+
+264
+00:08:35,519 --> 00:08:38,880
+then increase word of mouth but also
+
+265
+00:08:37,360 --> 00:08:40,240
+should increase usage of the tool
+
+266
+00:08:38,880 --> 00:08:41,680
+because they stay for longer which then
+
+267
+00:08:40,240 --> 00:08:43,599
+gets more clients cheaply because
+
+268
+00:08:41,680 --> 00:08:44,800
+they're using our tool. Just kind of
+
+269
+00:08:43,599 --> 00:08:46,800
+thinking through the spectrum of the
+
+270
+00:08:44,800 --> 00:08:48,720
+process here. Is there some sort of a
+
+271
+00:08:46,800 --> 00:08:51,040
+threshold or like a volume number or a
+
+272
+00:08:48,720 --> 00:08:53,200
+metric where that makes more sense but
+
+273
+00:08:51,040 --> 00:08:54,720
+initially still requires you to rely on
+
+274
+00:08:53,200 --> 00:08:56,240
+those more traditional sales models or
+
+275
+00:08:54,720 --> 00:08:58,320
+outbound things or is this something
+
+276
+00:08:56,240 --> 00:09:00,560
+that the effort goes into it right away?
+
+277
+00:08:58,320 --> 00:09:02,800
+So it's almost for me like the next time
+
+278
+00:09:00,560 --> 00:09:04,160
+I build a SAS app one criteria of what I
+
+279
+00:09:02,800 --> 00:09:05,760
+choose to build is is there some kind of
+
+280
+00:09:04,160 --> 00:09:06,959
+productled growth in the product and if
+
+281
+00:09:05,760 --> 00:09:08,560
+I can't do that then I'm less likely to
+
+282
+00:09:06,959 --> 00:09:10,080
+do it because then I have to adopt this
+
+283
+00:09:08,560 --> 00:09:12,640
+other ethos of business I don't really
+
+284
+00:09:10,080 --> 00:09:14,720
+care about and so in my mind that should
+
+285
+00:09:12,640 --> 00:09:16,080
+be part like obviously if you're
+
+286
+00:09:14,720 --> 00:09:17,120
+building something you guys know more
+
+287
+00:09:16,080 --> 00:09:19,600
+about this than me but you want to
+
+288
+00:09:17,120 --> 00:09:21,120
+prioritize the features and so one input
+
+289
+00:09:19,600 --> 00:09:22,959
+to that feature per the television
+
+290
+00:09:21,120 --> 00:09:25,120
+backlog is is this going to help us get
+
+291
+00:09:22,959 --> 00:09:27,200
+more customers along with like do
+
+292
+00:09:25,120 --> 00:09:30,240
+customers actually want this how hard it
+
+293
+00:09:27,200 --> 00:09:32,880
+is to build etc. So I think obviously
+
+294
+00:09:30,240 --> 00:09:35,519
+when you're small it may not bring any
+
+295
+00:09:32,880 --> 00:09:36,640
+customers but I still think like it's
+
+296
+00:09:35,519 --> 00:09:37,839
+part of the product we want it to be
+
+297
+00:09:36,640 --> 00:09:40,320
+there we want to keep improving and
+
+298
+00:09:37,839 --> 00:09:42,080
+iterating that over time so we get an
+
+299
+00:09:40,320 --> 00:09:42,880
+impact from it at the sweetest possible
+
+300
+00:09:42,080 --> 00:09:44,720
+point.
+
+301
+00:09:42,880 --> 00:09:46,640
+>> So does that also involve like the
+
+302
+00:09:44,720 --> 00:09:48,240
+premium model you know again just trying
+
+303
+00:09:46,640 --> 00:09:49,760
+to get that word of mouth out there to
+
+304
+00:09:48,240 --> 00:09:51,519
+try to build that customer base so that
+
+305
+00:09:49,760 --> 00:09:53,839
+you can really leverage it to get these
+
+306
+00:09:51,519 --> 00:09:56,240
+future sales. Yeah, I do feel like this
+
+307
+00:09:53,839 --> 00:09:58,640
+approach is better with like maximum
+
+308
+00:09:56,240 --> 00:10:00,480
+users and so if we're able to give a
+
+309
+00:09:58,640 --> 00:10:02,000
+premium model then a product like growth
+
+310
+00:10:00,480 --> 00:10:02,959
+is much more suited to that.
+
+311
+00:10:02,000 --> 00:10:04,560
+>> Yeah, that makes sense.
+
+312
+00:10:02,959 --> 00:10:05,760
+>> And so this may be kind of deviating a
+
+313
+00:10:04,560 --> 00:10:06,800
+little bit from product led growth, but
+
+314
+00:10:05,760 --> 00:10:08,080
+you're obviously working very hard to
+
+315
+00:10:06,800 --> 00:10:09,920
+also generate referral based business
+
+316
+00:10:08,080 --> 00:10:11,200
+and business on referrals as well. Is
+
+317
+00:10:09,920 --> 00:10:12,399
+that kind of a similar idea where you
+
+318
+00:10:11,200 --> 00:10:13,600
+get more bang for your buck and don't
+
+319
+00:10:12,399 --> 00:10:14,560
+spend a lot of time advertising to
+
+320
+00:10:13,600 --> 00:10:16,160
+people who don't care?
+
+321
+00:10:14,560 --> 00:10:17,760
+>> Exactly. Right. Let's say we had a five
+
+322
+00:10:16,160 --> 00:10:18,800
+grand ad budget off or I was going to
+
+323
+00:10:17,760 --> 00:10:20,079
+hire a new salesperson. It's going to
+
+324
+00:10:18,800 --> 00:10:22,079
+cost five grand per month. I would
+
+325
+00:10:20,079 --> 00:10:23,760
+rather keep prices the same whilst
+
+326
+00:10:22,079 --> 00:10:24,959
+improving the service. Like take that
+
+327
+00:10:23,760 --> 00:10:26,320
+five grand and invest it in something
+
+328
+00:10:24,959 --> 00:10:27,600
+that's going to I don't know a promotion
+
+329
+00:10:26,320 --> 00:10:29,440
+for the team or a new team member that's
+
+330
+00:10:27,600 --> 00:10:31,360
+going to improve service to then get
+
+331
+00:10:29,440 --> 00:10:33,440
+that value back through the referrals.
+
+332
+00:10:31,360 --> 00:10:34,640
+We're basically leaking less financial
+
+333
+00:10:33,440 --> 00:10:36,800
+energy from the system.
+
+334
+00:10:34,640 --> 00:10:38,160
+>> Interesting. So what would you say then
+
+335
+00:10:36,800 --> 00:10:40,399
+just continuing that line of thought
+
+336
+00:10:38,160 --> 00:10:42,079
+would be pitfalls to this type of an
+
+337
+00:10:40,399 --> 00:10:44,320
+approach or to those who might try to
+
+338
+00:10:42,079 --> 00:10:46,079
+you know engineer this like virally?
+
+339
+00:10:44,320 --> 00:10:48,640
+Yeah, I feel like I've definitely signed
+
+340
+00:10:46,079 --> 00:10:51,360
+up to tools where like maybe in the sign
+
+341
+00:10:48,640 --> 00:10:54,079
+up flow it like immediately does
+
+342
+00:10:51,360 --> 00:10:56,560
+something that is public when obviously
+
+343
+00:10:54,079 --> 00:10:58,079
+they'll get my permission but it's just
+
+344
+00:10:56,560 --> 00:10:59,839
+not something that I would want to do.
+
+345
+00:10:58,079 --> 00:11:01,680
+So the conversion rate on that is going
+
+346
+00:10:59,839 --> 00:11:03,360
+to be low. When it happens it could have
+
+347
+00:11:01,680 --> 00:11:05,519
+negative impacts to the user which is
+
+348
+00:11:03,360 --> 00:11:07,839
+not good to the brand. So the absolute
+
+349
+00:11:05,519 --> 00:11:09,279
+best example I think is candly because
+
+350
+00:11:07,839 --> 00:11:10,720
+obviously for anyone to book a meeting
+
+351
+00:11:09,279 --> 00:11:12,800
+with you, you have to send them
+
+352
+00:11:10,720 --> 00:11:15,600
+something. And so I wouldn't try and
+
+353
+00:11:12,800 --> 00:11:17,760
+shoehorn it in, but take every possible
+
+354
+00:11:15,600 --> 00:11:19,920
+opportunity to get your brand out there
+
+355
+00:11:17,760 --> 00:11:22,800
+through the usage. One thing that I
+
+356
+00:11:19,920 --> 00:11:24,800
+think Calendarly do really well is that
+
+357
+00:11:22,800 --> 00:11:26,800
+they know every time the Calendarly link
+
+358
+00:11:24,800 --> 00:11:30,320
+is sent, that's like an opportunity for
+
+359
+00:11:26,800 --> 00:11:32,399
+them to impress. And so the UI and the
+
+360
+00:11:30,320 --> 00:11:34,560
+design on calendar links I think is the
+
+361
+00:11:32,399 --> 00:11:36,399
+best out of all the other competitors
+
+362
+00:11:34,560 --> 00:11:38,880
+and it has been for the last like five
+
+363
+00:11:36,399 --> 00:11:40,000
+10 years. And so I think that's a place
+
+364
+00:11:38,880 --> 00:11:41,839
+if you are going to invest in the
+
+365
+00:11:40,000 --> 00:11:43,600
+product obviously you want to make sure
+
+366
+00:11:41,839 --> 00:11:46,959
+the product's amazing but it's an
+
+367
+00:11:43,600 --> 00:11:49,839
+opportunity to impress with every usage.
+
+368
+00:11:46,959 --> 00:11:50,959
+>> So both for podcast and the calendarly
+
+369
+00:11:49,839 --> 00:11:52,079
+example these kind of have like this
+
+370
+00:11:50,959 --> 00:11:54,160
+network effect where there's like
+
+371
+00:11:52,079 --> 00:11:55,600
+virality is a component inherently in
+
+372
+00:11:54,160 --> 00:11:57,279
+how that spread. Does does product
+
+373
+00:11:55,600 --> 00:11:58,959
+growth really only work in that kind of
+
+374
+00:11:57,279 --> 00:12:00,560
+niche? and we draw tendrils of this
+
+375
+00:11:58,959 --> 00:12:01,760
+further into other business models that
+
+376
+00:12:00,560 --> 00:12:02,880
+don't necessarily have that kind of
+
+377
+00:12:01,760 --> 00:12:05,600
+viral component.
+
+378
+00:12:02,880 --> 00:12:07,360
+>> One thing we do at Fame, which isn't
+
+379
+00:12:05,600 --> 00:12:08,959
+part of Fame Host software, it kind of
+
+380
+00:12:07,360 --> 00:12:10,320
+is, but we don't need Fame Host to do
+
+381
+00:12:08,959 --> 00:12:12,160
+it. And again, because we're a content
+
+382
+00:12:10,320 --> 00:12:13,760
+creation agency, in the global show
+
+383
+00:12:12,160 --> 00:12:16,000
+notes of every episode, we say this was
+
+384
+00:12:13,760 --> 00:12:18,399
+created with love by fame. And so that's
+
+385
+00:12:16,000 --> 00:12:20,639
+us being able to get attention through
+
+386
+00:12:18,399 --> 00:12:22,160
+the content that we're producing for
+
+387
+00:12:20,639 --> 00:12:23,839
+customers. So that's another
+
+388
+00:12:22,160 --> 00:12:26,000
+opportunity. So I think any service
+
+389
+00:12:23,839 --> 00:12:28,320
+business most of them do like create
+
+390
+00:12:26,000 --> 00:12:30,079
+things that customers use. Again it's a
+
+391
+00:12:28,320 --> 00:12:32,240
+bit tricky and you probably have to get
+
+392
+00:12:30,079 --> 00:12:34,160
+permission but that's one like way of
+
+393
+00:12:32,240 --> 00:12:36,800
+doing this. It is definitely more suited
+
+394
+00:12:34,160 --> 00:12:38,399
+to the lower cost almost BTOC like SAS
+
+395
+00:12:36,800 --> 00:12:40,639
+like currently like podcast hosting
+
+396
+00:12:38,399 --> 00:12:42,800
+software. I used to do like big writeups
+
+397
+00:12:40,639 --> 00:12:44,399
+of how software companies have grown
+
+398
+00:12:42,800 --> 00:12:46,320
+like Clickfunnels. I'm sure you guys are
+
+399
+00:12:44,399 --> 00:12:49,360
+aware of that. that had incredible viral
+
+400
+00:12:46,320 --> 00:12:50,880
+growth because their free plan. Any web
+
+401
+00:12:49,360 --> 00:12:52,639
+page you created had the ClickFunnels
+
+402
+00:12:50,880 --> 00:12:55,200
+bottom in the bottom right and that was
+
+403
+00:12:52,639 --> 00:12:56,720
+like premium on steroids with that free
+
+404
+00:12:55,200 --> 00:12:58,880
+offer. What I'd love to do actually is
+
+405
+00:12:56,720 --> 00:13:00,160
+like study Salesforce like how are
+
+406
+00:12:58,880 --> 00:13:02,399
+Salesforce possibly getting their brand
+
+407
+00:13:00,160 --> 00:13:04,880
+exposed. I don't know maybe in marketing
+
+408
+00:13:02,399 --> 00:13:06,800
+cloud they obviously have like an email
+
+409
+00:13:04,880 --> 00:13:08,560
+software to send emails to your list
+
+410
+00:13:06,800 --> 00:13:09,839
+presumably they've like is set by
+
+411
+00:13:08,560 --> 00:13:11,760
+Salesforce Marketing Cloud at the bottom
+
+412
+00:13:09,839 --> 00:13:13,440
+of every email. So that's probably an
+
+413
+00:13:11,760 --> 00:13:15,200
+example. I think it it probably there
+
+414
+00:13:13,440 --> 00:13:17,600
+probably is ways for most assets, but
+
+415
+00:13:15,200 --> 00:13:18,720
+it's like that B TOC like tool that it
+
+416
+00:13:17,600 --> 00:13:20,320
+seems to work the best.
+
+417
+00:13:18,720 --> 00:13:21,600
+>> We are kind of always prided ourselves
+
+418
+00:13:20,320 --> 00:13:22,720
+on doing like a very excellent job and
+
+419
+00:13:21,600 --> 00:13:24,079
+going above and beyond with customer
+
+420
+00:13:22,720 --> 00:13:25,680
+support, customer service and being
+
+421
+00:13:24,079 --> 00:13:27,839
+really responsive and kind of being
+
+422
+00:13:25,680 --> 00:13:29,200
+hightouch and we get referral business
+
+423
+00:13:27,839 --> 00:13:30,399
+because of that a lot and we have a
+
+424
+00:13:29,200 --> 00:13:31,839
+reputation in the different communities.
+
+425
+00:13:30,399 --> 00:13:32,880
+We're because of that and for a services
+
+426
+00:13:31,839 --> 00:13:34,160
+company that doesn't have a product that
+
+427
+00:13:32,880 --> 00:13:35,760
+is kind of a little bit of our version
+
+428
+00:13:34,160 --> 00:13:37,519
+of product l growth where people are
+
+429
+00:13:35,760 --> 00:13:39,279
+reinforcing that interesting idea.
+
+430
+00:13:37,519 --> 00:13:40,800
+>> Exactly. We have a fundamental belief of
+
+431
+00:13:39,279 --> 00:13:42,000
+fame that I think is should be true for
+
+432
+00:13:40,800 --> 00:13:43,839
+businesses. It seems that you guys are
+
+433
+00:13:42,000 --> 00:13:45,680
+aligned. Retention is the foundation of
+
+434
+00:13:43,839 --> 00:13:47,120
+growth. So, let's just try and invest as
+
+435
+00:13:45,680 --> 00:13:49,120
+much as possible in the customer
+
+436
+00:13:47,120 --> 00:13:51,760
+experience so that we don't have to work
+
+437
+00:13:49,120 --> 00:13:53,440
+out how to run a cold outbound process.
+
+438
+00:13:51,760 --> 00:13:55,360
+Yeah. And I I far prefer that to like
+
+439
+00:13:53,440 --> 00:13:56,639
+the volume based approach. We've worked
+
+440
+00:13:55,360 --> 00:13:57,839
+actually as partners with some other
+
+441
+00:13:56,639 --> 00:13:59,920
+service industries and things like that
+
+442
+00:13:57,839 --> 00:14:01,440
+who go very deep, but it's all in one
+
+443
+00:13:59,920 --> 00:14:02,720
+particular vertical. That's where their
+
+444
+00:14:01,440 --> 00:14:04,480
+expertise lies. That's what they hire
+
+445
+00:14:02,720 --> 00:14:05,839
+into. That's what it is that they do.
+
+446
+00:14:04,480 --> 00:14:07,040
+But they also have a product that
+
+447
+00:14:05,839 --> 00:14:08,399
+they're centering this around. To
+
+448
+00:14:07,040 --> 00:14:09,680
+Justin's point, it's a little bit
+
+449
+00:14:08,399 --> 00:14:11,360
+trickier or more challenging you to do
+
+450
+00:14:09,680 --> 00:14:12,800
+perhaps as a service because until you
+
+451
+00:14:11,360 --> 00:14:15,360
+have an opportunity to present yourself
+
+452
+00:14:12,800 --> 00:14:17,839
+in your services and can then direct
+
+453
+00:14:15,360 --> 00:14:19,920
+potential clients to those recommenders
+
+454
+00:14:17,839 --> 00:14:21,760
+or or people who have had good service
+
+455
+00:14:19,920 --> 00:14:23,040
+with us or get it to the web and and be
+
+456
+00:14:21,760 --> 00:14:25,440
+able to kind of propagate that through
+
+457
+00:14:23,040 --> 00:14:26,560
+something like a podcast for example, it
+
+458
+00:14:25,440 --> 00:14:29,440
+becomes kind of challenging in the
+
+459
+00:14:26,560 --> 00:14:31,760
+industry to do. Yeah. One other idea I
+
+460
+00:14:29,440 --> 00:14:34,079
+remember coming up with is that if in
+
+461
+00:14:31,760 --> 00:14:36,079
+the process of using your tool, your
+
+462
+00:14:34,079 --> 00:14:38,480
+customer or your users create something
+
+463
+00:14:36,079 --> 00:14:39,920
+that they would be proud of, then
+
+464
+00:14:38,480 --> 00:14:41,440
+actually we're robbing them of a good
+
+465
+00:14:39,920 --> 00:14:43,519
+experience by not allowing them to share
+
+466
+00:14:41,440 --> 00:14:46,320
+that. I remember the tool I studied to
+
+467
+00:14:43,519 --> 00:14:48,320
+do this was a SAS tool for mind mapping
+
+468
+00:14:46,320 --> 00:14:50,240
+called MindMeister, I believe. And so
+
+469
+00:14:48,320 --> 00:14:52,240
+obviously every user creates their mind
+
+470
+00:14:50,240 --> 00:14:53,360
+maps and then they simply added they
+
+471
+00:14:52,240 --> 00:14:55,199
+didn't have it before they added one
+
+472
+00:14:53,360 --> 00:14:57,440
+button that once a map was saved they
+
+473
+00:14:55,199 --> 00:14:59,199
+had a make public button and then that
+
+474
+00:14:57,440 --> 00:15:00,959
+would just publish that mind map on
+
+475
+00:14:59,199 --> 00:15:02,639
+their own domain and then it could be
+
+476
+00:15:00,959 --> 00:15:04,880
+shared and I think they expand
+
+477
+00:15:02,639 --> 00:15:06,000
+significant growth after that. So if
+
+478
+00:15:04,880 --> 00:15:07,040
+your users are creating anything that
+
+479
+00:15:06,000 --> 00:15:08,560
+they could be proud of that they might
+
+480
+00:15:07,040 --> 00:15:10,160
+want to share then let's just chuck on
+
+481
+00:15:08,560 --> 00:15:10,639
+the domain and then allow them to share
+
+482
+00:15:10,160 --> 00:15:12,720
+it.
+
+483
+00:15:10,639 --> 00:15:14,160
+>> Gotcha. So you had mentioned earlier too
+
+484
+00:15:12,720 --> 00:15:15,120
+and I'm sure it's part of some of the
+
+485
+00:15:14,160 --> 00:15:16,800
+things that you've you've already
+
+486
+00:15:15,120 --> 00:15:18,560
+mentioned and without necessarily giving
+
+487
+00:15:16,800 --> 00:15:19,839
+away any secret sauce or things that you
+
+488
+00:15:18,560 --> 00:15:21,440
+want to keep. Tell me a little bit more
+
+489
+00:15:19,839 --> 00:15:23,120
+about your fame playbook. You had
+
+490
+00:15:21,440 --> 00:15:23,680
+mentioned playbook. What does that look
+
+491
+00:15:23,120 --> 00:15:25,600
+like?
+
+492
+00:15:23,680 --> 00:15:28,240
+>> The playbook is like a longer dock that
+
+493
+00:15:25,600 --> 00:15:30,000
+explains like everything. But the point
+
+494
+00:15:28,240 --> 00:15:32,880
+I think is most relevant here is within
+
+495
+00:15:30,000 --> 00:15:34,560
+that doc is called the fame flywheel.
+
+496
+00:15:32,880 --> 00:15:36,399
+And this is popularized by Jim Collins
+
+497
+00:15:34,560 --> 00:15:38,240
+who wrote goods great probably the best
+
+498
+00:15:36,399 --> 00:15:40,480
+business book of all time. I think he
+
+499
+00:15:38,240 --> 00:15:42,720
+has like one chapter he pulled out and
+
+500
+00:15:40,480 --> 00:15:44,399
+actually created his own book and used
+
+501
+00:15:42,720 --> 00:15:46,880
+Amazon as a case study called the
+
+502
+00:15:44,399 --> 00:15:48,079
+firewall effect. And the concept here is
+
+503
+00:15:46,880 --> 00:15:49,920
+that essentially whenever you're
+
+504
+00:15:48,079 --> 00:15:51,600
+starting a business you're turning this
+
+505
+00:15:49,920 --> 00:15:53,120
+wheel and at the start every time you
+
+506
+00:15:51,600 --> 00:15:54,079
+turn it might take like a year to turn
+
+507
+00:15:53,120 --> 00:15:55,920
+it cuz it's really hard because you
+
+508
+00:15:54,079 --> 00:15:57,120
+don't have any previous work. But then
+
+509
+00:15:55,920 --> 00:15:59,120
+every time you turn it gets a little bit
+
+510
+00:15:57,120 --> 00:16:00,240
+easier and easier and easier. And so a
+
+511
+00:15:59,120 --> 00:16:01,360
+good idea for a business is to
+
+512
+00:16:00,240 --> 00:16:03,519
+understand what what are the steps on
+
+513
+00:16:01,360 --> 00:16:05,279
+that wheel that you can impact and then
+
+514
+00:16:03,519 --> 00:16:06,800
+how can you get it to turn faster and
+
+515
+00:16:05,279 --> 00:16:08,079
+faster. And then ultimately if it's
+
+516
+00:16:06,800 --> 00:16:10,240
+turning fast enough you can step back
+
+517
+00:16:08,079 --> 00:16:12,480
+and it will keep going. So this is what
+
+518
+00:16:10,240 --> 00:16:15,199
+Jeff essentially has done at Amazon. And
+
+519
+00:16:12,480 --> 00:16:17,519
+so I have tried to create this but for
+
+520
+00:16:15,199 --> 00:16:21,040
+fame. I'll just quickly talk through the
+
+521
+00:16:17,519 --> 00:16:24,079
+flywheel if only five steps. So step one
+
+522
+00:16:21,040 --> 00:16:26,240
+acquire clients cheaply because if we're
+
+523
+00:16:24,079 --> 00:16:27,680
+acquiring clients expensively then
+
+524
+00:16:26,240 --> 00:16:28,800
+that's obviously going to push us to
+
+525
+00:16:27,680 --> 00:16:29,680
+increase prices which is going to
+
+526
+00:16:28,800 --> 00:16:30,959
+increase the difference between the
+
+527
+00:16:29,680 --> 00:16:32,480
+amount we charge and the value we
+
+528
+00:16:30,959 --> 00:16:34,320
+deliver. So I'll talk more about that in
+
+529
+00:16:32,480 --> 00:16:36,160
+a second. Now the other point about the
+
+530
+00:16:34,320 --> 00:16:38,079
+flywheel is that in order for a flywheel
+
+531
+00:16:36,160 --> 00:16:39,680
+to actually work each step has to be
+
+532
+00:16:38,079 --> 00:16:41,680
+like inevitable based on the next one.
+
+533
+00:16:39,680 --> 00:16:43,600
+So if we acquire clients cheaply the the
+
+534
+00:16:41,680 --> 00:16:45,680
+next step we have to do is to hire and
+
+535
+00:16:43,600 --> 00:16:48,000
+train great values aligned people. And
+
+536
+00:16:45,680 --> 00:16:50,079
+if we do that well then our service the
+
+537
+00:16:48,000 --> 00:16:52,079
+fame service is going to improve. That's
+
+538
+00:16:50,079 --> 00:16:53,839
+the third step. If we improve the
+
+539
+00:16:52,079 --> 00:16:55,279
+service because we've got clients and
+
+540
+00:16:53,839 --> 00:16:57,519
+we've acquired them cheaply and we've
+
+541
+00:16:55,279 --> 00:16:59,040
+acquired and trained great design people
+
+542
+00:16:57,519 --> 00:17:00,480
+then the next thing that will happen
+
+543
+00:16:59,040 --> 00:17:02,320
+from an improved service is we have
+
+544
+00:17:00,480 --> 00:17:03,519
+happy clients. Then if we have happy
+
+545
+00:17:02,320 --> 00:17:06,000
+clients that means we're going to get
+
+546
+00:17:03,519 --> 00:17:08,400
+more of four things. So more referrals
+
+547
+00:17:06,000 --> 00:17:09,760
+as we were just discussing more case
+
+548
+00:17:08,400 --> 00:17:11,679
+studies which helps with the sales
+
+549
+00:17:09,760 --> 00:17:13,360
+process and brings down acquisition cost
+
+550
+00:17:11,679 --> 00:17:14,640
+more word of mouth obviously which will
+
+551
+00:17:13,360 --> 00:17:16,959
+bring down acquisition cost and more
+
+552
+00:17:14,640 --> 00:17:18,640
+virality through the methods that we
+
+553
+00:17:16,959 --> 00:17:20,400
+have discussed today and then obviously
+
+554
+00:17:18,640 --> 00:17:22,079
+the output of that is acquire cheaply
+
+555
+00:17:20,400 --> 00:17:23,760
+and then it goes around again and again.
+
+556
+00:17:22,079 --> 00:17:25,760
+So those are the five steps that if
+
+557
+00:17:23,760 --> 00:17:27,439
+we're looking to improve the business
+
+558
+00:17:25,760 --> 00:17:29,840
+that we know that we have to try and
+
+559
+00:17:27,439 --> 00:17:31,360
+improve one of those five things. So, in
+
+560
+00:17:29,840 --> 00:17:33,360
+terms of like acquiring clients cheaply
+
+561
+00:17:31,360 --> 00:17:34,160
+has a subjectivity to it, right? Like I
+
+562
+00:17:33,360 --> 00:17:35,200
+don't have to share it, but like do you
+
+563
+00:17:34,160 --> 00:17:36,320
+have a specific number where like this
+
+564
+00:17:35,200 --> 00:17:38,080
+is a client that was cheap to acquire
+
+565
+00:17:36,320 --> 00:17:39,280
+versus expensive to acquire or is your
+
+566
+00:17:38,080 --> 00:17:40,400
+system set up in such a way you don't
+
+567
+00:17:39,280 --> 00:17:40,960
+talk to clients that are expensive to
+
+568
+00:17:40,400 --> 00:17:42,480
+acquire?
+
+569
+00:17:40,960 --> 00:17:44,160
+>> Yeah, good question and very relevant
+
+570
+00:17:42,480 --> 00:17:45,600
+recently. So, I'm happy to share our top
+
+571
+00:17:44,160 --> 00:17:48,240
+four acquisition channels which is
+
+572
+00:17:45,600 --> 00:17:50,480
+roughly 85% of all customers. The first
+
+573
+00:17:48,240 --> 00:17:52,880
+two is Google, organic and paid. Third
+
+574
+00:17:50,480 --> 00:17:54,720
+is partnerships and then fourth is my
+
+575
+00:17:52,880 --> 00:17:56,160
+LinkedIn and podcast. Now, in the
+
+576
+00:17:54,720 --> 00:17:57,840
+partnerships one, this is very relevant
+
+577
+00:17:56,160 --> 00:17:59,039
+and topical recently. If we think about
+
+578
+00:17:57,840 --> 00:18:00,080
+the cost of the partnerships is like the
+
+579
+00:17:59,039 --> 00:18:02,000
+cost of running the program which is
+
+580
+00:18:00,080 --> 00:18:03,919
+really just one person like finding
+
+581
+00:18:02,000 --> 00:18:05,520
+partners and keeping them engaged. So
+
+582
+00:18:03,919 --> 00:18:07,600
+pretty relatively low. But then
+
+583
+00:18:05,520 --> 00:18:10,080
+obviously we pay out to partners. We
+
+584
+00:18:07,600 --> 00:18:12,240
+used to pay 100% of the first month of
+
+585
+00:18:10,080 --> 00:18:14,480
+revenue and so this would be between two
+
+586
+00:18:12,240 --> 00:18:16,240
+and $4,000 per customer and we're
+
+587
+00:18:14,480 --> 00:18:17,919
+shooting for like 2,000 basically but
+
+588
+00:18:16,240 --> 00:18:19,679
+we're kind of happy or or we really just
+
+589
+00:18:17,919 --> 00:18:22,080
+testing that to see if that would get us
+
+590
+00:18:19,679 --> 00:18:23,840
+more referrals and it did. But then what
+
+591
+00:18:22,080 --> 00:18:25,280
+happened is we had one customer that
+
+592
+00:18:23,840 --> 00:18:28,080
+came in that maybe wasn't the right
+
+593
+00:18:25,280 --> 00:18:30,480
+customer to accept only stayed with us
+
+594
+00:18:28,080 --> 00:18:32,720
+for like three months and we paid the
+
+595
+00:18:30,480 --> 00:18:34,160
+one month and so really if we ran all
+
+596
+00:18:32,720 --> 00:18:35,919
+the numbers we probably didn't make any
+
+597
+00:18:34,160 --> 00:18:37,679
+money on that customer and so that
+
+598
+00:18:35,919 --> 00:18:39,600
+customer was too expensive to acquire
+
+599
+00:18:37,679 --> 00:18:42,080
+and so since then we have just reduced
+
+600
+00:18:39,600 --> 00:18:44,080
+the partnership commission to 50% of the
+
+601
+00:18:42,080 --> 00:18:45,120
+first month to kind of control that. So
+
+602
+00:18:44,080 --> 00:18:46,480
+we're probably getting a few less
+
+603
+00:18:45,120 --> 00:18:47,679
+referrals now but we can be quite
+
+604
+00:18:46,480 --> 00:18:49,679
+confident that they're going to be cheap
+
+605
+00:18:47,679 --> 00:18:52,000
+enough. Did you consider paying out the
+
+606
+00:18:49,679 --> 00:18:53,600
+referral fee over time as opposed to in
+
+607
+00:18:52,000 --> 00:18:54,480
+one lump sum? And why did you decide
+
+608
+00:18:53,600 --> 00:18:55,280
+against that? Because it looks like you
+
+609
+00:18:54,480 --> 00:18:57,440
+did consider it.
+
+610
+00:18:55,280 --> 00:18:59,200
+>> Yeah, it was more just simplicity, but
+
+611
+00:18:57,440 --> 00:19:01,679
+you're totally right. Like we actually
+
+612
+00:18:59,200 --> 00:19:02,960
+used to have 10% per month, but we we're
+
+613
+00:19:01,679 --> 00:19:04,320
+trying to juice it and make a bit more
+
+614
+00:19:02,960 --> 00:19:06,480
+center. But yeah, that would like
+
+615
+00:19:04,320 --> 00:19:09,520
+eradicate the risk of the low lifetime
+
+616
+00:19:06,480 --> 00:19:11,760
+value. I'll quickly cover how we reduce
+
+617
+00:19:09,520 --> 00:19:13,120
+cost in the other three growth program.
+
+618
+00:19:11,760 --> 00:19:14,320
+We call them growth programs. My
+
+619
+00:19:13,120 --> 00:19:15,600
+LinkedIn and podcast. Obviously the
+
+620
+00:19:14,320 --> 00:19:16,960
+podcast is cheap to run because we just
+
+621
+00:19:15,600 --> 00:19:17,679
+run their own in-house and we have uh
+
+622
+00:19:16,960 --> 00:19:18,880
+the system.
+
+623
+00:19:17,679 --> 00:19:20,160
+>> You got a couple people there that know
+
+624
+00:19:18,880 --> 00:19:22,000
+how to do podcasts.
+
+625
+00:19:20,160 --> 00:19:23,919
+>> Yeah, exactly. We have a couple. And
+
+626
+00:19:22,000 --> 00:19:25,760
+then my LinkedIn I guess it is cheap for
+
+627
+00:19:23,919 --> 00:19:27,679
+the business because just I do 100% of
+
+628
+00:19:25,760 --> 00:19:28,960
+the work. So it could be cheap or
+
+629
+00:19:27,679 --> 00:19:31,440
+expensive depending on how you look at
+
+630
+00:19:28,960 --> 00:19:33,360
+it. So like no real significant cost for
+
+631
+00:19:31,440 --> 00:19:35,200
+either of those. We we pay for the team
+
+632
+00:19:33,360 --> 00:19:36,960
+to run my show, but that's because we've
+
+633
+00:19:35,200 --> 00:19:38,240
+honed that down over time. Google
+
+634
+00:19:36,960 --> 00:19:39,840
+organic, we've already discussed this,
+
+635
+00:19:38,240 --> 00:19:41,360
+right? Like we got the backlink from IBM
+
+636
+00:19:39,840 --> 00:19:43,120
+because we have fame hosts. Now that's
+
+637
+00:19:41,360 --> 00:19:44,240
+strong. like a backlink to the homepage
+
+638
+00:19:43,120 --> 00:19:46,000
+would be a lot better than backlink to
+
+639
+00:19:44,240 --> 00:19:47,679
+this like random episode page but we're
+
+640
+00:19:46,000 --> 00:19:50,000
+trying to like do the structure to still
+
+641
+00:19:47,679 --> 00:19:53,600
+get the value and so I think we've been
+
+642
+00:19:50,000 --> 00:19:56,080
+quite good at building SEO which is like
+
+643
+00:19:53,600 --> 00:19:57,760
+a big part of how we can rank highly and
+
+644
+00:19:56,080 --> 00:19:59,360
+therefore acquire content cheaply and
+
+645
+00:19:57,760 --> 00:20:01,360
+then finally Google ads our approach for
+
+646
+00:19:59,360 --> 00:20:03,360
+Google ads is only I don't know how how
+
+647
+00:20:01,360 --> 00:20:06,320
+much you guys know about Google ads but
+
+648
+00:20:03,360 --> 00:20:08,080
+we only bid on like they have intent not
+
+649
+00:20:06,320 --> 00:20:10,640
+just for a podcast but for a podcast
+
+650
+00:20:08,080 --> 00:20:13,039
+provider service company agency and we
+
+651
+00:20:10,640 --> 00:20:15,520
+only use exact have to match. So first
+
+652
+00:20:13,039 --> 00:20:17,039
+terms like B2B podcast agency or podcast
+
+653
+00:20:15,520 --> 00:20:18,480
+production company like very focused
+
+654
+00:20:17,039 --> 00:20:20,400
+only that match. So we're not wasting
+
+655
+00:20:18,480 --> 00:20:22,559
+money on terms like how do I start a
+
+656
+00:20:20,400 --> 00:20:24,480
+podcast. So those are the ways that we
+
+657
+00:20:22,559 --> 00:20:26,559
+focus our energy on acquisition
+
+658
+00:20:24,480 --> 00:20:27,760
+channels. Got it. So I want to step back
+
+659
+00:20:26,559 --> 00:20:28,880
+for just a second because you had
+
+660
+00:20:27,760 --> 00:20:30,720
+mentioned something about a recent
+
+661
+00:20:28,880 --> 00:20:32,880
+client or a client that you said was not
+
+662
+00:20:30,720 --> 00:20:34,400
+the right customer to accept and this is
+
+663
+00:20:32,880 --> 00:20:35,600
+something that Justin and I can attest
+
+664
+00:20:34,400 --> 00:20:38,159
+to but you know just dealing in the
+
+665
+00:20:35,600 --> 00:20:40,080
+service industry. One, it's sometimes
+
+666
+00:20:38,159 --> 00:20:42,000
+challenging to assess whether that
+
+667
+00:20:40,080 --> 00:20:43,919
+customer is right at the outset. And so
+
+668
+00:20:42,000 --> 00:20:46,159
+I'm curious how you go about that. And
+
+669
+00:20:43,919 --> 00:20:47,919
+then two, how do you let them know that
+
+670
+00:20:46,159 --> 00:20:50,480
+perhaps this is not the best fit for
+
+671
+00:20:47,919 --> 00:20:52,159
+them organizationally so that you can
+
+672
+00:20:50,480 --> 00:20:54,240
+amicably kind of part ways?
+
+673
+00:20:52,159 --> 00:20:55,679
+>> I think on the first question there's
+
+674
+00:20:54,240 --> 00:20:57,360
+like quantitive and qualitative, right?
+
+675
+00:20:55,679 --> 00:20:59,520
+There's like during the sales process,
+
+676
+00:20:57,360 --> 00:21:01,440
+do you get a good feeling? And I a
+
+677
+00:20:59,520 --> 00:21:02,880
+massive criminal of like getting a bad
+
+678
+00:21:01,440 --> 00:21:04,320
+feeling, but because I wanted the
+
+679
+00:21:02,880 --> 00:21:06,000
+revenue or like we didn't have enough
+
+680
+00:21:04,320 --> 00:21:08,000
+clients, then I would go for it. And so
+
+681
+00:21:06,000 --> 00:21:09,200
+the only way you learn that is if you
+
+682
+00:21:08,000 --> 00:21:11,200
+guys are nodding is like through
+
+683
+00:21:09,200 --> 00:21:12,880
+experience. And so now by like year four
+
+684
+00:21:11,200 --> 00:21:14,080
+or five I can be like okay we're not
+
+685
+00:21:12,880 --> 00:21:15,840
+we're not going to have this person. So
+
+686
+00:21:14,080 --> 00:21:17,440
+we actually did a great analysis a few
+
+687
+00:21:15,840 --> 00:21:19,919
+months ago of just looking at all of the
+
+688
+00:21:17,440 --> 00:21:22,080
+term clients from all time and whether
+
+689
+00:21:19,919 --> 00:21:24,400
+they were on persona. And so on persona
+
+690
+00:21:22,080 --> 00:21:26,400
+for us now has changed because of that
+
+691
+00:21:24,400 --> 00:21:28,400
+analysis. We essentially saw that any
+
+692
+00:21:26,400 --> 00:21:31,120
+company with less than I think 25
+
+693
+00:21:28,400 --> 00:21:34,400
+employees typically had a lower number
+
+694
+00:21:31,120 --> 00:21:36,159
+month with us by like 20 to 30%. And so
+
+695
+00:21:34,400 --> 00:21:37,600
+now we've just changed this criteria in
+
+696
+00:21:36,159 --> 00:21:38,960
+order to try and accept the companies
+
+697
+00:21:37,600 --> 00:21:40,240
+that are slightly bigger. And the main
+
+698
+00:21:38,960 --> 00:21:41,840
+reason for that is because smaller
+
+699
+00:21:40,240 --> 00:21:43,600
+companies are typically just higher risk
+
+700
+00:21:41,840 --> 00:21:45,280
+and half of our churn we call
+
+701
+00:21:43,600 --> 00:21:46,960
+uncontrollable. Eg we don't really have
+
+702
+00:21:45,280 --> 00:21:49,120
+an impact on it and of company going
+
+703
+00:21:46,960 --> 00:21:50,240
+bust basically. So we're hoping that's
+
+704
+00:21:49,120 --> 00:21:51,919
+going to have an impact that change was
+
+705
+00:21:50,240 --> 00:21:54,159
+made recently. So that's like a
+
+706
+00:21:51,919 --> 00:21:56,559
+quantitive analysis of historic churn.
+
+707
+00:21:54,159 --> 00:21:58,960
+But then there is the qualitative like
+
+708
+00:21:56,559 --> 00:22:00,960
+feeling which I would if anybody's
+
+709
+00:21:58,960 --> 00:22:03,280
+listening I would like urge people to go
+
+710
+00:22:00,960 --> 00:22:04,640
+with that more than than ignore it. Uh,
+
+711
+00:22:03,280 --> 00:22:05,840
+that's a big lesson I've had.
+
+712
+00:22:04,640 --> 00:22:07,520
+>> I agree that 100%.
+
+713
+00:22:05,840 --> 00:22:09,280
+>> Final point I didn't answer was how to
+
+714
+00:22:07,520 --> 00:22:11,440
+let them know. This literally happened
+
+715
+00:22:09,280 --> 00:22:15,360
+today where there was a customer that
+
+716
+00:22:11,440 --> 00:22:16,880
+was a nightmare and then we agreed to
+
+717
+00:22:15,360 --> 00:22:18,240
+finish on this day. We just about
+
+718
+00:22:16,880 --> 00:22:19,600
+finished. And then today they were like,
+
+719
+00:22:18,240 --> 00:22:20,960
+"Oh, actually, we've really been
+
+720
+00:22:19,600 --> 00:22:22,799
+enjoying working with you the past
+
+721
+00:22:20,960 --> 00:22:24,000
+month. Can we continue work together?"
+
+722
+00:22:22,799 --> 00:22:24,960
+And actually, it was the head of account
+
+723
+00:22:24,000 --> 00:22:26,320
+management was like, "I don't think we
+
+724
+00:22:24,960 --> 00:22:28,000
+should do this." I was like, "I'll leave
+
+725
+00:22:26,320 --> 00:22:29,280
+it with you. You can decide and you can
+
+726
+00:22:28,000 --> 00:22:31,120
+do the communication." So, I haven't
+
+727
+00:22:29,280 --> 00:22:32,799
+actually reviewed what she sent, but I'm
+
+728
+00:22:31,120 --> 00:22:34,400
+sure it was great. But yeah, I don't
+
+729
+00:22:32,799 --> 00:22:35,039
+have a good answer to that. Maybe you
+
+730
+00:22:34,400 --> 00:22:36,320
+guys can share.
+
+731
+00:22:35,039 --> 00:22:37,840
+>> Yeah, we end up in a little bit of a
+
+732
+00:22:36,320 --> 00:22:39,120
+sticky situation because a lot of times
+
+733
+00:22:37,840 --> 00:22:40,960
+we have customers that are dependent
+
+734
+00:22:39,120 --> 00:22:43,200
+upon us because we know the software or
+
+735
+00:22:40,960 --> 00:22:44,720
+we have access to things. So we have a
+
+736
+00:22:43,200 --> 00:22:46,159
+it's very important for us to be proper
+
+737
+00:22:44,720 --> 00:22:47,520
+stewards of the trust that was put in us
+
+738
+00:22:46,159 --> 00:22:49,600
+initially even if the relationship isn't
+
+739
+00:22:47,520 --> 00:22:51,120
+working out and the client's unhappy. So
+
+740
+00:22:49,600 --> 00:22:52,480
+even if things are really ugly, we have
+
+741
+00:22:51,120 --> 00:22:54,159
+to cooperate for a period of time
+
+742
+00:22:52,480 --> 00:22:55,679
+because the customer needs things that
+
+743
+00:22:54,159 --> 00:22:58,400
+we have and we need to do the right
+
+744
+00:22:55,679 --> 00:22:59,679
+thing by our customers. But I typically
+
+745
+00:22:58,400 --> 00:23:01,200
+try to use kind of vague language like
+
+746
+00:22:59,679 --> 00:23:03,440
+this decision has been made and it's not
+
+747
+00:23:01,200 --> 00:23:04,880
+working out from our perspective and if
+
+748
+00:23:03,440 --> 00:23:06,799
+people want really solid feedback as to
+
+749
+00:23:04,880 --> 00:23:08,159
+why they're an awful client, I usually
+
+750
+00:23:06,799 --> 00:23:09,360
+have a couple emails or things I can
+
+751
+00:23:08,159 --> 00:23:10,720
+refer them to. It's like so we don't
+
+752
+00:23:09,360 --> 00:23:13,039
+typically talk to other human beings
+
+753
+00:23:10,720 --> 00:23:14,400
+like this and that's why we're not
+
+754
+00:23:13,039 --> 00:23:15,919
+working with you anymore.
+
+755
+00:23:14,400 --> 00:23:17,840
+>> What I'll do is I'm just going to get
+
+756
+00:23:15,919 --> 00:23:19,440
+the actual email that was sent today and
+
+757
+00:23:17,840 --> 00:23:21,840
+we'll see if it was as good as that.
+
+758
+00:23:19,440 --> 00:23:23,440
+>> Oh,
+
+759
+00:23:21,840 --> 00:23:25,039
+real inside baseball now.
+
+760
+00:23:23,440 --> 00:23:26,159
+>> Yeah. So the the response is basically
+
+761
+00:23:25,039 --> 00:23:27,679
+like the head of account management
+
+762
+00:23:26,159 --> 00:23:29,280
+saying to them, I've spoken with the
+
+763
+00:23:27,679 --> 00:23:31,200
+team and we essentially want to stick
+
+764
+00:23:29,280 --> 00:23:33,280
+with what we already agreed when we
+
+765
+00:23:31,200 --> 00:23:35,520
+agreed not to work together a couple of
+
+766
+00:23:33,280 --> 00:23:36,720
+months back. We're happy to continue
+
+767
+00:23:35,520 --> 00:23:38,559
+supporting you with the work that we're
+
+768
+00:23:36,720 --> 00:23:40,400
+currently doing. Sorry if this isn't
+
+769
+00:23:38,559 --> 00:23:41,919
+what you're hoping to hear, but we hope
+
+770
+00:23:40,400 --> 00:23:43,520
+it's clear and aligns with what was
+
+771
+00:23:41,919 --> 00:23:46,559
+previously agreed. I don't think it was
+
+772
+00:23:43,520 --> 00:23:47,679
+as good as your one, was it?
+
+773
+00:23:46,559 --> 00:23:49,520
+And we all have different approaches
+
+774
+00:23:47,679 --> 00:23:51,919
+that we take, too. you know, we've got
+
+775
+00:23:49,520 --> 00:23:53,840
+an outstanding project manager who knows
+
+776
+00:23:51,919 --> 00:23:55,440
+the clients better probably than anybody
+
+777
+00:23:53,840 --> 00:23:57,200
+just by virtue of being project manager.
+
+778
+00:23:55,440 --> 00:23:58,559
+And so we could always bounce things off
+
+779
+00:23:57,200 --> 00:24:00,559
+of him of, you know, how do you think
+
+780
+00:23:58,559 --> 00:24:02,240
+that something like this is going to be
+
+781
+00:24:00,559 --> 00:24:04,400
+taken and then we could tweak and tune
+
+782
+00:24:02,240 --> 00:24:05,600
+from there. Justin's always awesome with
+
+783
+00:24:04,400 --> 00:24:07,200
+just bringing the facts. It's like
+
+784
+00:24:05,600 --> 00:24:09,440
+here's where we're at and I have a
+
+785
+00:24:07,200 --> 00:24:11,039
+tendency to be much more touchyfey, but
+
+786
+00:24:09,440 --> 00:24:12,880
+we all have our approaches and and we've
+
+787
+00:24:11,039 --> 00:24:14,159
+all seen some success with that. But at
+
+788
+00:24:12,880 --> 00:24:16,720
+the end of the day, it still comes back
+
+789
+00:24:14,159 --> 00:24:19,440
+to the assessment of why this was not a
+
+790
+00:24:16,720 --> 00:24:21,279
+good fit and how do we address that as
+
+791
+00:24:19,440 --> 00:24:23,679
+an organization and move forward and
+
+792
+00:24:21,279 --> 00:24:24,960
+either not repeat that or if it does
+
+793
+00:24:23,679 --> 00:24:26,320
+show back up again, addressing it
+
+794
+00:24:24,960 --> 00:24:27,200
+better. We don't have that come up a
+
+795
+00:24:26,320 --> 00:24:28,320
+whole lot though. I'd be curious to know
+
+796
+00:24:27,200 --> 00:24:29,520
+where it pops up in your business. But
+
+797
+00:24:28,320 --> 00:24:31,039
+in our business, it's kind of usually
+
+798
+00:24:29,520 --> 00:24:32,480
+two categories. One of which is that the
+
+799
+00:24:31,039 --> 00:24:35,600
+customer can't really afford to work
+
+800
+00:24:32,480 --> 00:24:36,960
+with a team at our scale and quality and
+
+801
+00:24:35,600 --> 00:24:37,840
+with our business model. And that's not
+
+802
+00:24:36,960 --> 00:24:38,960
+saying anything bad about them. They
+
+803
+00:24:37,840 --> 00:24:40,960
+just they need to find a cheaper
+
+804
+00:24:38,960 --> 00:24:42,799
+solution. And that's okay. It's we're
+
+805
+00:24:40,960 --> 00:24:45,120
+not inexpensive. and that it is what it
+
+806
+00:24:42,799 --> 00:24:46,559
+is. Uh the other typical kind of problem
+
+807
+00:24:45,120 --> 00:24:48,240
+we have with clients is like basic human
+
+808
+00:24:46,559 --> 00:24:49,840
+decency stuff like people being really
+
+809
+00:24:48,240 --> 00:24:51,600
+awful to Aaron which makes me angry and
+
+810
+00:24:49,840 --> 00:24:52,960
+then I get very protective of my team.
+
+811
+00:24:51,600 --> 00:24:54,559
+And so that's the other reason we've cut
+
+812
+00:24:52,960 --> 00:24:55,840
+people loose is just like hey life's too
+
+813
+00:24:54,559 --> 00:24:57,279
+short to work with people who want to
+
+814
+00:24:55,840 --> 00:24:59,360
+treat other people like this and we just
+
+815
+00:24:57,279 --> 00:25:00,960
+won't do it. So I guess what are some of
+
+816
+00:24:59,360 --> 00:25:02,640
+the reasons other than the unsalvageable
+
+817
+00:25:00,960 --> 00:25:05,120
+clients clients who've turned for fame.
+
+818
+00:25:02,640 --> 00:25:07,840
+We have this rule on like strikes
+
+819
+00:25:05,120 --> 00:25:09,919
+because the some cases are like clearly
+
+820
+00:25:07,840 --> 00:25:12,320
+this person is being rude and so that
+
+821
+00:25:09,919 --> 00:25:14,159
+would almost be like uh maybe one strike
+
+822
+00:25:12,320 --> 00:25:15,279
+and then out. But then there are also
+
+823
+00:25:14,159 --> 00:25:16,799
+clients that maybe had this where
+
+824
+00:25:15,279 --> 00:25:18,880
+they're not like directly being rude but
+
+825
+00:25:16,799 --> 00:25:22,000
+they're just almost unpleasant to work
+
+826
+00:25:18,880 --> 00:25:23,840
+with. So it isn't just like an ethical
+
+827
+00:25:22,000 --> 00:25:26,000
+thing. I don't think it's actually a
+
+828
+00:25:23,840 --> 00:25:28,400
+good business decision to try and get
+
+829
+00:25:26,000 --> 00:25:29,919
+rid of them because for us again like we
+
+830
+00:25:28,400 --> 00:25:31,440
+talked about retention the same applies
+
+831
+00:25:29,919 --> 00:25:34,320
+to us for employee retention.
+
+832
+00:25:31,440 --> 00:25:35,679
+>> Yes. and losing a team member can often
+
+833
+00:25:34,320 --> 00:25:37,120
+have a bigger impact than losing a
+
+834
+00:25:35,679 --> 00:25:39,200
+client. And so if the team member is
+
+835
+00:25:37,120 --> 00:25:40,960
+unhappy, then we'll try to look to
+
+836
+00:25:39,200 --> 00:25:43,279
+replace them and then bring someone else
+
+837
+00:25:40,960 --> 00:25:44,960
+who maybe is better suited to the client
+
+838
+00:25:43,279 --> 00:25:46,559
+before sending the email to essentially
+
+839
+00:25:44,960 --> 00:25:47,840
+get rid of them. What we have done
+
+840
+00:25:46,559 --> 00:25:49,919
+recently which you guys might find
+
+841
+00:25:47,840 --> 00:25:51,039
+interesting is in the sales process as
+
+842
+00:25:49,919 --> 00:25:52,480
+well as assessing whether we think
+
+843
+00:25:51,039 --> 00:25:53,600
+they're going to be a good customer is
+
+844
+00:25:52,480 --> 00:25:54,799
+trying to understand more about the
+
+845
+00:25:53,600 --> 00:25:56,480
+person we're going to work with if we're
+
+846
+00:25:54,799 --> 00:25:58,000
+interfacing with that person in the
+
+847
+00:25:56,480 --> 00:25:58,880
+sales process because then we can try
+
+848
+00:25:58,000 --> 00:26:01,919
+and match them whether it's
+
+849
+00:25:58,880 --> 00:26:03,760
+energetically interest-wise tonality
+
+850
+00:26:01,919 --> 00:26:06,000
+with the right account manager who's
+
+851
+00:26:03,760 --> 00:26:07,360
+going to work with them and so again
+
+852
+00:26:06,000 --> 00:26:09,840
+this is a recent change or a recent
+
+853
+00:26:07,360 --> 00:26:11,279
+initiative but I'm hoping then it almost
+
+854
+00:26:09,840 --> 00:26:12,320
+feels more seamless for the client and
+
+855
+00:26:11,279 --> 00:26:13,840
+the account manager when they're working
+
+856
+00:26:12,320 --> 00:26:15,919
+together which would mean we'd have less
+
+857
+00:26:13,840 --> 00:26:16,880
+of these people issues. Yeah, you
+
+858
+00:26:15,919 --> 00:26:18,480
+actually have teetered into something
+
+859
+00:26:16,880 --> 00:26:19,840
+that I want to explore just a little bit
+
+860
+00:26:18,480 --> 00:26:21,200
+too. You're talking about growth
+
+861
+00:26:19,840 --> 00:26:22,960
+strategies and product development, but
+
+862
+00:26:21,200 --> 00:26:24,799
+you've also gotten into your team
+
+863
+00:26:22,960 --> 00:26:27,200
+internally in your culture and how that
+
+864
+00:26:24,799 --> 00:26:29,039
+works. But as an international company,
+
+865
+00:26:27,200 --> 00:26:32,000
+you know, you have international markets
+
+866
+00:26:29,039 --> 00:26:34,159
+and there is nuance to that both for
+
+867
+00:26:32,000 --> 00:26:35,440
+your clients but also for the people who
+
+868
+00:26:34,159 --> 00:26:37,520
+are going to be interacting with them.
+
+869
+00:26:35,440 --> 00:26:40,080
+And I'm just kind of curious how you
+
+870
+00:26:37,520 --> 00:26:41,520
+manage not only internally your team and
+
+871
+00:26:40,080 --> 00:26:42,960
+and where to position them and how to
+
+872
+00:26:41,520 --> 00:26:45,760
+position them internationally, but also
+
+873
+00:26:42,960 --> 00:26:48,000
+how you educate them or what they bring
+
+874
+00:26:45,760 --> 00:26:49,520
+in terms of dealing with the cultural
+
+875
+00:26:48,000 --> 00:26:50,799
+differences or the marketing nuances of
+
+876
+00:26:49,520 --> 00:26:51,760
+where they actually are and who they're
+
+877
+00:26:50,799 --> 00:26:54,000
+servicing.
+
+878
+00:26:51,760 --> 00:26:56,000
+>> Yeah. So we made the vision early on
+
+879
+00:26:54,000 --> 00:26:57,279
+that culturally we thought it would
+
+880
+00:26:56,000 --> 00:26:59,840
+would be better for like core part of
+
+881
+00:26:57,279 --> 00:27:01,600
+the team to be in one at least country
+
+882
+00:26:59,840 --> 00:27:03,360
+because there are obviously cultural
+
+883
+00:27:01,600 --> 00:27:05,919
+similarities between people within the
+
+884
+00:27:03,360 --> 00:27:09,200
+same country. So we have I think 30% of
+
+885
+00:27:05,919 --> 00:27:11,760
+the team in the UK and 40% of the team
+
+886
+00:27:09,200 --> 00:27:14,799
+in the Philippines and so that's great
+
+887
+00:27:11,760 --> 00:27:17,440
+for us internally but then with the
+
+888
+00:27:14,799 --> 00:27:19,120
+majority of our clients being in the US
+
+889
+00:27:17,440 --> 00:27:20,799
+then the majority of the dynamics
+
+890
+00:27:19,120 --> 00:27:23,279
+between client and account manager or
+
+891
+00:27:20,799 --> 00:27:25,360
+client and team member is US to UK and
+
+892
+00:27:23,279 --> 00:27:28,000
+so this is actually probably a great
+
+893
+00:27:25,360 --> 00:27:30,320
+opportunity for like training is if we
+
+894
+00:27:28,000 --> 00:27:31,520
+could have someone internally run it if
+
+895
+00:27:30,320 --> 00:27:33,279
+we had an American person but I don't
+
+896
+00:27:31,520 --> 00:27:34,960
+think we do maybe an external person
+
+897
+00:27:33,279 --> 00:27:36,720
+who's American that understands the
+
+898
+00:27:34,960 --> 00:27:39,279
+culture could just like come and explain
+
+899
+00:27:36,720 --> 00:27:41,039
+to us just more about how American
+
+900
+00:27:39,279 --> 00:27:43,600
+people think. That's actually a really
+
+901
+00:27:41,039 --> 00:27:44,880
+good idea. I should uh explore this
+
+902
+00:27:43,600 --> 00:27:46,159
+because it's probably something that we
+
+903
+00:27:44,880 --> 00:27:48,000
+could improve on if we haven't done it
+
+904
+00:27:46,159 --> 00:27:50,480
+before. Happy to be guinea pigs for that
+
+905
+00:27:48,000 --> 00:27:52,080
+if if you need somebody. So, I want to
+
+906
+00:27:50,480 --> 00:27:54,000
+get a little bit now into kind of
+
+907
+00:27:52,080 --> 00:27:55,760
+approach. Obviously, a lot of what we're
+
+908
+00:27:54,000 --> 00:27:56,960
+talking about here is viral for lack of
+
+909
+00:27:55,760 --> 00:27:58,399
+a better way of putting it, but it's
+
+910
+00:27:56,960 --> 00:27:59,679
+very network oriented. You know, the
+
+911
+00:27:58,399 --> 00:28:01,200
+larger your net, the more you're going
+
+912
+00:27:59,679 --> 00:28:02,559
+to be able to bring back in. We're
+
+913
+00:28:01,200 --> 00:28:04,799
+spending a lot of time talking about
+
+914
+00:28:02,559 --> 00:28:07,679
+content and awareness and things like
+
+915
+00:28:04,799 --> 00:28:09,600
+that. And I'm curious if or how those
+
+916
+00:28:07,679 --> 00:28:10,880
+tie to business outcomes for the people
+
+917
+00:28:09,600 --> 00:28:13,120
+that you work with. I know that you have
+
+918
+00:28:10,880 --> 00:28:14,880
+a diverse set of of businesses that you
+
+919
+00:28:13,120 --> 00:28:16,080
+work with, particularly in the podcast
+
+920
+00:28:14,880 --> 00:28:18,880
+space because obviously that's that's
+
+921
+00:28:16,080 --> 00:28:20,960
+where we come in, but do you become kind
+
+922
+00:28:18,880 --> 00:28:22,720
+of experts in in their spaces or in
+
+923
+00:28:20,960 --> 00:28:24,960
+their field so that you can better
+
+924
+00:28:22,720 --> 00:28:26,399
+engage with them or or how do you
+
+925
+00:28:24,960 --> 00:28:27,840
+metric, you know, the business outcomes
+
+926
+00:28:26,399 --> 00:28:30,480
+that you're trying to achieve for your
+
+927
+00:28:27,840 --> 00:28:33,039
+clients and then tie those solutions? If
+
+928
+00:28:30,480 --> 00:28:34,799
+we have high employee retention then two
+
+929
+00:28:33,039 --> 00:28:36,399
+things happen. First is that the service
+
+930
+00:28:34,799 --> 00:28:38,480
+and podcast knowledge of the team
+
+931
+00:28:36,399 --> 00:28:40,480
+increases. The second thing happens is
+
+932
+00:28:38,480 --> 00:28:42,799
+that there's quite a lot of repeat
+
+933
+00:28:40,480 --> 00:28:44,640
+industries that we get. Most podcasts
+
+934
+00:28:42,799 --> 00:28:46,480
+sit in a similar space. And so what that
+
+935
+00:28:44,640 --> 00:28:49,200
+means is that we can often match account
+
+936
+00:28:46,480 --> 00:28:50,720
+managers with a client that has a
+
+937
+00:28:49,200 --> 00:28:53,520
+similar topic. For example, like this
+
+938
+00:28:50,720 --> 00:28:55,200
+show there's like tech but also a bit of
+
+939
+00:28:53,520 --> 00:28:58,880
+marketing etc. And so we can bring on a
+
+940
+00:28:55,200 --> 00:29:00,640
+marketing or a tech. So that's the step
+
+941
+00:28:58,880 --> 00:29:03,440
+one. And obviously what we're really
+
+942
+00:29:00,640 --> 00:29:05,520
+doing like if we take an episode the
+
+943
+00:29:03,440 --> 00:29:07,360
+technical expertise is in the episode
+
+944
+00:29:05,520 --> 00:29:08,720
+the main value we bring is how do we
+
+945
+00:29:07,360 --> 00:29:10,240
+take the information and format it in a
+
+946
+00:29:08,720 --> 00:29:12,399
+way that a good podcast episode and so
+
+947
+00:29:10,240 --> 00:29:14,080
+that actually we don't necessarily need
+
+948
+00:29:12,399 --> 00:29:16,000
+for that part a lot of the technical
+
+949
+00:29:14,080 --> 00:29:17,360
+expertise. So that's the first step but
+
+950
+00:29:16,000 --> 00:29:19,840
+then second step is if we do have the
+
+951
+00:29:17,360 --> 00:29:21,600
+industry knowledge we can often produce
+
+952
+00:29:19,840 --> 00:29:22,720
+episodes. So like the foundation is the
+
+953
+00:29:21,600 --> 00:29:24,799
+podcast knowledge. Second is the
+
+954
+00:29:22,720 --> 00:29:26,240
+industry specific knowledge. So that's
+
+955
+00:29:24,799 --> 00:29:27,440
+how we like to produce a good podcast in
+
+956
+00:29:26,240 --> 00:29:29,039
+terms of how people make money from the
+
+957
+00:29:27,440 --> 00:29:30,240
+podcast. I learned this when I was doing
+
+958
+00:29:29,039 --> 00:29:32,000
+content marketing in our decade of
+
+959
+00:29:30,240 --> 00:29:34,480
+online marketing is that if the long
+
+960
+00:29:32,000 --> 00:29:36,559
+game and so if in the short term we can
+
+961
+00:29:34,480 --> 00:29:38,640
+try and gain some kind of benefit from
+
+962
+00:29:36,559 --> 00:29:40,720
+the content production and then that
+
+963
+00:29:38,640 --> 00:29:42,399
+enables us to reinvest to get to the
+
+964
+00:29:40,720 --> 00:29:43,840
+real holy grail which is your ideal
+
+965
+00:29:42,399 --> 00:29:45,120
+buyers knowing liking and trusting you
+
+966
+00:29:43,840 --> 00:29:46,240
+before they come to buy. So that's the
+
+967
+00:29:45,120 --> 00:29:48,559
+holy grail but it takes a long time
+
+968
+00:29:46,240 --> 00:29:50,960
+especially with podcasting and so then
+
+969
+00:29:48,559 --> 00:29:52,480
+the question is how on the route to
+
+970
+00:29:50,960 --> 00:29:54,399
+building the audience that no likes and
+
+971
+00:29:52,480 --> 00:29:56,240
+trust us can we get some kind of ROI
+
+972
+00:29:54,399 --> 00:29:57,600
+some kind of business benefit and I
+
+973
+00:29:56,240 --> 00:29:59,440
+discovered this when I ran the first
+
+974
+00:29:57,600 --> 00:30:01,039
+podcast for within the decade of
+
+975
+00:29:59,440 --> 00:30:03,200
+trailing and failing I worked for a B2
+
+976
+00:30:01,039 --> 00:30:06,000
+SAS company as head of demand generation
+
+977
+00:30:03,200 --> 00:30:09,600
+we started a podcast and the 11th guest
+
+978
+00:30:06,000 --> 00:30:11,679
+was the VP of sales ops podcast 11th
+
+979
+00:30:09,600 --> 00:30:13,760
+guest was the VP of sales also intercom
+
+980
+00:30:11,679 --> 00:30:15,440
+he came on the show randomly got
+
+981
+00:30:13,760 --> 00:30:17,600
+chatting with our CEO and then bought
+
+982
+00:30:15,440 --> 00:30:19,360
+our software for the whole of Intercom
+
+983
+00:30:17,600 --> 00:30:21,600
+sales team. So that basically at that
+
+984
+00:30:19,360 --> 00:30:24,080
+point paid for the podcast like nine
+
+985
+00:30:21,600 --> 00:30:25,600
+times over. So the business now said
+
+986
+00:30:24,080 --> 00:30:27,360
+they love the podcast, gave us more
+
+987
+00:30:25,600 --> 00:30:29,520
+money to improve production value,
+
+988
+00:30:27,360 --> 00:30:30,960
+increase release frequency and that
+
+989
+00:30:29,520 --> 00:30:32,799
+enabled them to grow the audience which
+
+990
+00:30:30,960 --> 00:30:34,880
+was the real benefit. And so it's a long
+
+991
+00:30:32,799 --> 00:30:36,480
+way of saying shortterm how can we get
+
+992
+00:30:34,880 --> 00:30:38,399
+an ROI from the guests whether that's
+
+993
+00:30:36,480 --> 00:30:41,039
+them becoming customers them becoming
+
+994
+00:30:38,399 --> 00:30:43,440
+partners. So that convinces the finance
+
+995
+00:30:41,039 --> 00:30:45,520
+person or the CEO or even the host who
+
+996
+00:30:43,440 --> 00:30:47,440
+like wants to know that their work is
+
+997
+00:30:45,520 --> 00:30:49,200
+having a business impact to keep
+
+998
+00:30:47,440 --> 00:30:50,880
+investing in the show over 6 months 12
+
+999
+00:30:49,200 --> 00:30:53,840
+months to build audience.
+
+1000
+00:30:50,880 --> 00:30:55,120
+>> Gotcha. So now looking outward because
+
+1001
+00:30:53,840 --> 00:30:56,960
+you have worked with so many different
+
+1002
+00:30:55,120 --> 00:30:59,120
+businesses and organizations who are
+
+1003
+00:30:56,960 --> 00:31:00,480
+getting into podcast for whatever reason
+
+1004
+00:30:59,120 --> 00:31:01,919
+you know whether that's marketing or
+
+1005
+00:31:00,480 --> 00:31:03,679
+just to enter into the knowledge space
+
+1006
+00:31:01,919 --> 00:31:06,000
+or they're looking to you know gain some
+
+1007
+00:31:03,679 --> 00:31:07,679
+sort of traction or whatever. I suspect
+
+1008
+00:31:06,000 --> 00:31:08,960
+that over the course of these different
+
+1009
+00:31:07,679 --> 00:31:10,399
+businesses and the different podcasts,
+
+1010
+00:31:08,960 --> 00:31:13,840
+you've probably seen successes and
+
+1011
+00:31:10,399 --> 00:31:16,159
+failures of their actual SAS, not so
+
+1012
+00:31:13,840 --> 00:31:18,480
+much the podcast, but of the SAS itself.
+
+1013
+00:31:16,159 --> 00:31:20,559
+So, I'm curious what you see as like the
+
+1014
+00:31:18,480 --> 00:31:23,279
+primary markers of those successes or
+
+1015
+00:31:20,559 --> 00:31:25,360
+failures of the application, less so the
+
+1016
+00:31:23,279 --> 00:31:26,640
+podcast. So I'm not sure if it's going
+
+1017
+00:31:25,360 --> 00:31:28,559
+to answer the question, but I think the
+
+1018
+00:31:26,640 --> 00:31:30,399
+most powerful lesson that I've learned
+
+1019
+00:31:28,559 --> 00:31:31,520
+from like working inside a client's
+
+1020
+00:31:30,399 --> 00:31:34,320
+business essentially tell them with
+
+1021
+00:31:31,520 --> 00:31:36,960
+their podcast was a big company called
+
+1022
+00:31:34,320 --> 00:31:38,480
+High Radius, massive SAS company based
+
+1023
+00:31:36,960 --> 00:31:40,960
+out of India, I think like thousands of
+
+1024
+00:31:38,480 --> 00:31:42,159
+employees. The podcast was with the CEO.
+
+1025
+00:31:40,960 --> 00:31:43,840
+So we'd have quite a lot of meetings
+
+1026
+00:31:42,159 --> 00:31:44,720
+without the CEO and the meetings were
+
+1027
+00:31:43,840 --> 00:31:46,320
+good. All the people were really
+
+1028
+00:31:44,720 --> 00:31:48,960
+intelligent and like once a month we'd
+
+1029
+00:31:46,320 --> 00:31:51,519
+have a meeting with the CEO. And what I
+
+1030
+00:31:48,960 --> 00:31:54,080
+found very impressive and fascinating
+
+1031
+00:31:51,519 --> 00:31:57,440
+was that almost any question that was
+
+1032
+00:31:54,080 --> 00:31:59,600
+put to the CEO, he wouldn't answer, but
+
+1033
+00:31:57,440 --> 00:32:02,080
+he'd give the company value that it
+
+1034
+00:31:59,600 --> 00:32:04,240
+would relate to and push it back to
+
+1035
+00:32:02,080 --> 00:32:06,399
+someone else in their team. And so he
+
+1036
+00:32:04,240 --> 00:32:08,559
+was just like almost he was just like
+
+1037
+00:32:06,399 --> 00:32:10,480
+pushing back and then forcing the team
+
+1038
+00:32:08,559 --> 00:32:13,360
+to decide based on the company's values
+
+1039
+00:32:10,480 --> 00:32:15,519
+that they had like four values. So that
+
+1040
+00:32:13,360 --> 00:32:17,840
+for me was like wow for a company that's
+
+1041
+00:32:15,519 --> 00:32:20,960
+so like thousands of people the CEO at
+
+1042
+00:32:17,840 --> 00:32:23,519
+least really like lives by these values
+
+1043
+00:32:20,960 --> 00:32:25,279
+that was pretty impressive to me and I'm
+
+1044
+00:32:23,519 --> 00:32:28,080
+sure their company is doing very well
+
+1045
+00:32:25,279 --> 00:32:29,200
+financially. So that's one like positive
+
+1046
+00:32:28,080 --> 00:32:31,679
+thing I've seen. It's like basically
+
+1047
+00:32:29,200 --> 00:32:34,000
+living to values at the highest level.
+
+1048
+00:32:31,679 --> 00:32:37,120
+Negative wise it's almost like a
+
+1049
+00:32:34,000 --> 00:32:38,480
+marketing almost like a life ethos like
+
+1050
+00:32:37,120 --> 00:32:39,760
+remember we said that the holy grail is
+
+1051
+00:32:38,480 --> 00:32:41,039
+to build the audience of people that
+
+1052
+00:32:39,760 --> 00:32:42,080
+know like and trust you. So when they
+
+1053
+00:32:41,039 --> 00:32:43,600
+need the service or they need the
+
+1054
+00:32:42,080 --> 00:32:46,880
+software, they come to you. In order to
+
+1055
+00:32:43,600 --> 00:32:49,600
+do that, you have to delay you getting
+
+1056
+00:32:46,880 --> 00:32:51,039
+value. And so some clients are like, we
+
+1057
+00:32:49,600 --> 00:32:53,039
+need to talk about this client case
+
+1058
+00:32:51,039 --> 00:32:55,600
+study we did in this podcast episode
+
+1059
+00:32:53,039 --> 00:32:57,519
+that just talks about our product. But
+
+1060
+00:32:55,600 --> 00:32:58,480
+then like only a very tiny group of
+
+1061
+00:32:57,519 --> 00:33:00,399
+people, the people that are basically
+
+1062
+00:32:58,480 --> 00:33:02,399
+about to buy care about that. And so the
+
+1063
+00:33:00,399 --> 00:33:04,080
+the clients where I've seen it not go so
+
+1064
+00:33:02,399 --> 00:33:06,000
+well is that they haven't understood
+
+1065
+00:33:04,080 --> 00:33:07,200
+that actually we have to gain these
+
+1066
+00:33:06,000 --> 00:33:08,799
+people's trust over time. We have to
+
+1067
+00:33:07,200 --> 00:33:10,480
+entertain them. We have to add value.
+
+1068
+00:33:08,799 --> 00:33:11,679
+And we do that by not talking about
+
+1069
+00:33:10,480 --> 00:33:14,399
+product service, by talking about things
+
+1070
+00:33:11,679 --> 00:33:15,679
+that interest them. So that's one other
+
+1071
+00:33:14,399 --> 00:33:18,320
+thing that I've seen that is probably
+
+1072
+00:33:15,679 --> 00:33:18,960
+correlated with a SAS dying or or
+
+1073
+00:33:18,320 --> 00:33:20,559
+growing.
+
+1074
+00:33:18,960 --> 00:33:22,320
+>> I love hearing you say that. I'm uh
+
+1075
+00:33:20,559 --> 00:33:23,519
+banging that drum all the time with our
+
+1076
+00:33:22,320 --> 00:33:25,200
+podcast and our internal discussions,
+
+1077
+00:33:23,519 --> 00:33:27,279
+which is like, hey, this is not a thinly
+
+1078
+00:33:25,200 --> 00:33:28,720
+veiled advertisement for our services.
+
+1079
+00:33:27,279 --> 00:33:29,600
+This is, you know, real content we want
+
+1080
+00:33:28,720 --> 00:33:31,360
+to put out there. We want to have real
+
+1081
+00:33:29,600 --> 00:33:31,919
+discussions with real people. So love
+
+1082
+00:33:31,360 --> 00:33:34,399
+that.
+
+1083
+00:33:31,919 --> 00:33:35,360
+>> Exactly. Right. And not only longer term
+
+1084
+00:33:34,399 --> 00:33:36,720
+is going to be better for the business,
+
+1085
+00:33:35,360 --> 00:33:38,080
+but it actually like feels good. you
+
+1086
+00:33:36,720 --> 00:33:39,120
+know, you like you created the content
+
+1087
+00:33:38,080 --> 00:33:40,080
+or after someone comes to you on
+
+1088
+00:33:39,120 --> 00:33:42,080
+LinkedIn and say, "I enjoyed the
+
+1089
+00:33:40,080 --> 00:33:43,679
+episode." It's like it's like a good
+
+1090
+00:33:42,080 --> 00:33:44,399
+feeling. It's like a good thing for the
+
+1091
+00:33:43,679 --> 00:33:46,080
+world.
+
+1092
+00:33:44,399 --> 00:33:48,000
+>> Yeah. We feel like we do a number of
+
+1093
+00:33:46,080 --> 00:33:49,440
+things right and in the space that we're
+
+1094
+00:33:48,000 --> 00:33:51,120
+in and we have a lot of experience. I
+
+1095
+00:33:49,440 --> 00:33:53,519
+mean, cumulatively, it's it's, you know,
+
+1096
+00:33:51,120 --> 00:33:55,120
+decades of experience and it just felt
+
+1097
+00:33:53,519 --> 00:33:56,240
+like it's a good time. Let's put some
+
+1098
+00:33:55,120 --> 00:33:57,600
+knowledge out there and and just kind of
+
+1099
+00:33:56,240 --> 00:33:59,120
+get in the space. We had a guest show up
+
+1100
+00:33:57,600 --> 00:34:00,640
+on a recent episode and make a comment
+
+1101
+00:33:59,120 --> 00:34:02,320
+about how we hate JavaScript, which is
+
+1102
+00:34:00,640 --> 00:34:03,519
+not completely inaccurate, but it's also
+
+1103
+00:34:02,320 --> 00:34:04,880
+like I didn't even realize I had put
+
+1104
+00:34:03,519 --> 00:34:07,200
+that out there, but like someone knew of
+
+1105
+00:34:04,880 --> 00:34:09,440
+something about me before
+
+1106
+00:34:07,200 --> 00:34:11,440
+>> that like shows that people are thinking
+
+1107
+00:34:09,440 --> 00:34:13,359
+about you when like you don't even know
+
+1108
+00:34:11,440 --> 00:34:15,040
+who they are. You do obviously when they
+
+1109
+00:34:13,359 --> 00:34:16,639
+became a guest. So that's like we're on
+
+1110
+00:34:15,040 --> 00:34:17,520
+the road to getting people to know like
+
+1111
+00:34:16,639 --> 00:34:19,839
+and trust us.
+
+1112
+00:34:17,520 --> 00:34:22,159
+>> I have one question. We sometimes have
+
+1113
+00:34:19,839 --> 00:34:24,000
+folks show up with an app idea or they
+
+1114
+00:34:22,159 --> 00:34:25,359
+think it'd be cool to do a software and
+
+1115
+00:34:24,000 --> 00:34:27,200
+sometimes they show up with money and
+
+1116
+00:34:25,359 --> 00:34:29,200
+not really much of an idea or certainly
+
+1117
+00:34:27,200 --> 00:34:30,560
+not like a cogent top bottom plan for
+
+1118
+00:34:29,200 --> 00:34:33,119
+how they're going to execute this rough
+
+1119
+00:34:30,560 --> 00:34:34,720
+idea of a business. I imagine you guys
+
+1120
+00:34:33,119 --> 00:34:36,000
+probably also see that a lot where
+
+1121
+00:34:34,720 --> 00:34:37,359
+someone has the idea like it'd be cool
+
+1122
+00:34:36,000 --> 00:34:39,440
+to have a podcast and they come in the
+
+1123
+00:34:37,359 --> 00:34:41,119
+front door and need a lot of guidance on
+
+1124
+00:34:39,440 --> 00:34:42,800
+like what would you talk about and what
+
+1125
+00:34:41,119 --> 00:34:43,839
+would a format be. So do you have in
+
+1126
+00:34:42,800 --> 00:34:44,879
+your playbook like a way to kind of
+
+1127
+00:34:43,839 --> 00:34:46,399
+coach people through that or how does
+
+1128
+00:34:44,879 --> 00:34:47,919
+that process develop with with your team
+
+1129
+00:34:46,399 --> 00:34:49,040
+and someone engages with you? Yes,
+
+1130
+00:34:47,919 --> 00:34:50,560
+throughout the launch process, we have
+
+1131
+00:34:49,040 --> 00:34:52,159
+the what we call the podcast positioning
+
+1132
+00:34:50,560 --> 00:34:54,720
+process, which is actually like a very
+
+1133
+00:34:52,159 --> 00:34:57,200
+high leverage success lever for the rest
+
+1134
+00:34:54,720 --> 00:34:59,440
+of the show. Like if we get the name and
+
+1135
+00:34:57,200 --> 00:35:00,720
+like the brand identity and the ethos of
+
+1136
+00:34:59,440 --> 00:35:02,880
+the show right, then everything else is
+
+1137
+00:35:00,720 --> 00:35:04,480
+easier. And so even if someone has an
+
+1138
+00:35:02,880 --> 00:35:05,760
+idea, we like to filter it through this
+
+1139
+00:35:04,480 --> 00:35:06,800
+methodology because our job is just
+
+1140
+00:35:05,760 --> 00:35:09,200
+going to be so much easier if we get
+
+1141
+00:35:06,800 --> 00:35:11,520
+that right. And then yeah, often I would
+
+1142
+00:35:09,200 --> 00:35:12,880
+say the majority of hosts are open for
+
+1143
+00:35:11,520 --> 00:35:14,480
+coaching or at least they say they are
+
+1144
+00:35:12,880 --> 00:35:15,520
+and they they take the coaching. I don't
+
+1145
+00:35:14,480 --> 00:35:17,760
+know if they they do anything about it,
+
+1146
+00:35:15,520 --> 00:35:21,760
+but we'll see about this Aaron tomorrow.
+
+1147
+00:35:17,760 --> 00:35:23,839
+>> Yeah, present company excluded. But uh
+
+1148
+00:35:21,760 --> 00:35:24,960
+>> so I would say that there's probably two
+
+1149
+00:35:23,839 --> 00:35:26,160
+things people need help with. It's it's
+
+1150
+00:35:24,960 --> 00:35:28,480
+the positioning and we like to do that
+
+1151
+00:35:26,160 --> 00:35:30,560
+for all of them. And then we also offer
+
+1152
+00:35:28,480 --> 00:35:32,720
+coaching and it's also almost always
+
+1153
+00:35:30,560 --> 00:35:33,599
+accepted, but whether it's acted upon is
+
+1154
+00:35:32,720 --> 00:35:35,280
+another question.
+
+1155
+00:35:33,599 --> 00:35:36,880
+>> Well, Tom, it has been an absolute
+
+1156
+00:35:35,280 --> 00:35:38,240
+pleasure and thank you so much for
+
+1157
+00:35:36,880 --> 00:35:39,839
+sharing your time and your talents and
+
+1158
+00:35:38,240 --> 00:35:42,160
+your insights. We have been talking with
+
+1159
+00:35:39,839 --> 00:35:44,000
+Tom Hunt, founder and CEO of Fame. Tom,
+
+1160
+00:35:42,160 --> 00:35:45,119
+where and how can people reach you?
+
+1161
+00:35:44,000 --> 00:35:46,960
+>> Yeah, I saw you mentioned podcast
+
+1162
+00:35:45,119 --> 00:35:49,119
+Confessions of a B2B entrepreneur and
+
+1163
+00:35:46,960 --> 00:35:50,880
+then LinkedIn Tom and also feel free to
+
+1164
+00:35:49,119 --> 00:35:53,040
+just email me to Tom at fame.so if you
+
+1165
+00:35:50,880 --> 00:35:55,680
+have any podcast related questions.
+
+1166
+00:35:53,040 --> 00:35:57,280
+>> Fantastic. And Justin, as always, fun
+
+1167
+00:35:55,680 --> 00:35:58,480
+time my friend. Special thanks as always
+
+1168
+00:35:57,280 --> 00:35:59,839
+to our listeners as well. If you like
+
+1169
+00:35:58,480 --> 00:36:01,119
+what you're hearing, have ideas for the
+
+1170
+00:35:59,839 --> 00:36:02,960
+show, or just want to tell us what's on
+
+1171
+00:36:01,119 --> 00:36:04,640
+your mind, throw a review our way. Hit
+
+1172
+00:36:02,960 --> 00:36:06,880
+subscribe if you are so inclined and we
+
+1173
+00:36:04,640 --> 00:36:08,340
+will see you all next time on SAS that
+
+1174
+00:36:06,880 --> 00:36:12,659
+app.
+
+1175
+00:36:08,340 --> 00:36:12,659
+[Music]
+
