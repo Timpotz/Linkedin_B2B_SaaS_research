@@ -8,7 +8,7 @@ The goal of this repo is to turn that body of work into a useful base for a futu
 
 ## Start Here
 
-Use [research/sources.md](research\sources.md) as the main gateway into the project. It links out to each expert, their source URLs, and the matching files in this repo.
+Use [sources.md](./research/sources.md) as the main gateway into the project. It links out to each expert, their source URLs, and the matching files in this repo.
 
 
 ## What’s in this repo
