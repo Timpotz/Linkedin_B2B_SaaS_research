@@ -6,6 +6,11 @@ I chose this topic because it is practical. The best people in this space are no
 
 The goal of this repo is to turn that body of work into a useful base for a future playbook.
 
+## Start Here
+
+Use [research/sources.md](research\sources.md) as the main gateway into the project. It links out to each expert, their source URLs, and the matching files in this repo.
+
+
 ## What’s in this repo
 
 - 10 experts with real operating experience in B2B SaaS content, founder branding, creator-led growth, or LinkedIn strategy
