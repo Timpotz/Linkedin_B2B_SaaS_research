@@ -1,6 +1,5 @@
 # Alex Boyd
 
-
 Alex Boyd treats LinkedIn as operating infrastructure for founders and creators, especially through comments, creator systems, and lightweight publishing workflows.
 
 ## Recent public LinkedIn content
